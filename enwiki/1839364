@@ -1,0 +1,1266 @@
+{
+  "title": "Council of Ministers (Iraq)",
+  "pageID": 1839364,
+  "categories": [
+    "Politics of Iraq",
+    "Government of Iraq",
+    "National cabinets"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Council of Ministers is the executive branch of the government of Iraq.",
+              "links": [
+                {
+                  "text": "executive branch",
+                  "type": "internal",
+                  "page": "executive (government)"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Government of Iraq, 2006-2010"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iraq"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Council of Ministers"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Council of Representatives of Iraq elects a President of the Republic who appoints the Prime Minister who in turn appoints the Council of Ministers, all of whom must be approved by the Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Council of Representatives of Iraq"
+                },
+                {
+                  "text": "President of the Republic",
+                  "type": "internal",
+                  "page": "President of Iraq"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Iraq"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of iraq"
+        }
+      ]
+    },
+    {
+      "title": "Members",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Image": {
+              "text": "147x147px]]"
+            },
+            "Office": {
+              "text": "Prime Minister",
+              "links": [
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Iraq"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.gds.gov.iq/",
+              "links": [
+                {
+                  "text": "www.gds.gov.iq/",
+                  "type": "external",
+                  "site": "https://gds.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Mustafa Al-Kadhimi",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mustafa Al-Kadhimi"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": "Independent"
+            },
+            "Party": {
+              "text": "none",
+              "formatting": {
+                "italic": [
+                  "none"
+                ]
+              }
+            },
+            "Dates": {
+              "text": "6 May 2020"
+            },
+            "References": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Sovereign Ministries",
+              "formatting": {
+                "bold": [
+                  "Sovereign Ministries"
+                ]
+              }
+            },
+            "Website": {
+              "text": ""
+            },
+            "Minister": {
+              "text": ""
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": "Othman al-Ghanmi 2020.png"
+            },
+            "Office": {
+              "text": "Interior Minister",
+              "links": [
+                {
+                  "text": "Interior Minister",
+                  "type": "internal",
+                  "page": "Ministry of Interior (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.moi.gov.iq",
+              "links": [
+                {
+                  "text": "www.moi.gov.iq",
+                  "type": "external",
+                  "site": "http://www.moi.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Othman al-Ghanmi",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Othman al-Ghanmi"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": "Independent"
+            },
+            "Party": {
+              "text": "none",
+              "formatting": {
+                "italic": [
+                  "none"
+                ]
+              }
+            },
+            "Dates": {
+              "text": "6 May 2020"
+            },
+            "References": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": "Ali-allawi-2008.jpg"
+            },
+            "Office": {
+              "text": "Finance Minister",
+              "links": [
+                {
+                  "text": "Finance Minister",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.mof.gov.iq",
+              "links": [
+                {
+                  "text": "www.mof.gov.iq",
+                  "type": "external",
+                  "site": "http://www.mof.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Ali Allawi",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ali Allawi"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": "Independent"
+            },
+            "Party": {
+              "text": "none",
+              "formatting": {
+                "italic": [
+                  "none"
+                ]
+              }
+            },
+            "Dates": {
+              "text": "6 May 2020"
+            },
+            "References": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": "134x134px]]"
+            },
+            "Office": {
+              "text": "Foreign Minister",
+              "links": [
+                {
+                  "text": "Foreign Minister",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.mofa.gov.iq",
+              "links": [
+                {
+                  "text": "www.mofa.gov.iq",
+                  "type": "external",
+                  "site": "http://www.mofa.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Fuad Hussein",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fuad Hussein"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": "Independent"
+            },
+            "Party": {
+              "text": "none",
+              "formatting": {
+                "italic": [
+                  "none"
+                ]
+              }
+            },
+            "Dates": {
+              "text": "6 June 2020"
+            }
+          },
+          {
+            "Image": {
+              "text": "Juma Inad222.jpg"
+            },
+            "Office": {
+              "text": "Defense Minister",
+              "links": [
+                {
+                  "text": "Defense Minister",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.mod.mil.iq",
+              "links": [
+                {
+                  "text": "www.mod.mil.iq",
+                  "type": "external",
+                  "site": "http://www.mod.mil.iq/en_index.html"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Juma Inad",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Juma Inad"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": "Independent"
+            },
+            "Party": {
+              "text": "none",
+              "formatting": {
+                "italic": [
+                  "none"
+                ]
+              }
+            },
+            "Dates": {
+              "text": "6 May 2020"
+            },
+            "References": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": "Ihsan Abdul Jabbar Ismail.jpg"
+            },
+            "Office": {
+              "text": "Oil Minister",
+              "links": [
+                {
+                  "text": "Oil Minister",
+                  "type": "internal",
+                  "page": "Ministry of Oil (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.oil.gov.iq/",
+              "links": [
+                {
+                  "text": "www.oil.gov.iq/",
+                  "type": "external",
+                  "site": "https://oil.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Ihsan Abdul Jabbar Ismail"
+            },
+            "Coalition": {
+              "text": "Independent"
+            },
+            "Party": {
+              "text": "none",
+              "formatting": {
+                "italic": [
+                  "none"
+                ]
+              }
+            },
+            "Dates": {
+              "text": "6 June 2020"
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Other Ministries",
+              "formatting": {
+                "bold": [
+                  "Other Ministries"
+                ]
+              }
+            },
+            "Website": {
+              "text": ""
+            },
+            "Minister": {
+              "text": ""
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Agriculture Minister",
+              "links": [
+                {
+                  "text": "Agriculture Minister",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.zeraa.gov.iq/",
+              "links": [
+                {
+                  "text": "www.zeraa.gov.iq/",
+                  "type": "external",
+                  "site": "http://zeraa.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Mohamed Karim Alkhafaji"
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": "none",
+              "formatting": {
+                "italic": [
+                  "none"
+                ]
+              }
+            },
+            "References": {
+              "text": "6 June 2020"
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Communications Minister",
+              "links": [
+                {
+                  "text": "Communications Minister",
+                  "type": "internal",
+                  "page": "Ministry of Communications (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.moc.gov.iq/",
+              "links": [
+                {
+                  "text": "www.moc.gov.iq/",
+                  "type": "external",
+                  "site": "http://moc.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Arkan Shahab",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arkan Shahab"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": "6 May 2020"
+            },
+            "References": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Culture Minister"
+            },
+            "Website": {
+              "text": "www.mocul.gov.iq/",
+              "links": [
+                {
+                  "text": "www.mocul.gov.iq/",
+                  "type": "external",
+                  "site": "http://www.mocul.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Hassan Nazim"
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": "6 June 2020"
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Housing & Reconstruction Minister"
+            },
+            "Website": {
+              "text": "www.moch.gov.iq",
+              "links": [
+                {
+                  "text": "www.moch.gov.iq",
+                  "type": "external",
+                  "site": "http://www.moch.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Nazanin Mohammed"
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            },
+            "References": {
+              "text": ""
+            },
+            "col9": {
+              "text": "6 May 2020"
+            },
+            "col10": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Electricity Minister",
+              "links": [
+                {
+                  "text": "Electricity Minister",
+                  "type": "internal",
+                  "page": "Ministry of Electricity (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.moelc.gov.iq/",
+              "links": [
+                {
+                  "text": "www.moelc.gov.iq/",
+                  "type": "external",
+                  "site": "https://www.moelc.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Majid Mahdi Hantoush",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Majid Mahdi Hantoush"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            },
+            "References": {
+              "text": "6 May 2020"
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Education Minister",
+              "links": [
+                {
+                  "text": "Education Minister",
+                  "type": "internal",
+                  "page": "Ministry of Education (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.moedu.gov.iq/",
+              "links": [
+                {
+                  "text": "www.moedu.gov.iq/",
+                  "type": "external",
+                  "site": "http://moedu.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Ali Hamid"
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": "6 May 2020"
+            },
+            "References": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Health Minister",
+              "links": [
+                {
+                  "text": "Health Minister",
+                  "type": "internal",
+                  "page": "Ministry of Health (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.moh.gov.iq/",
+              "links": [
+                {
+                  "text": "www.moh.gov.iq/",
+                  "type": "external",
+                  "site": "https://moh.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Hassam Mohammed",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hassam Mohammed"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            },
+            "References": {
+              "text": "6 May 2020"
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Higher Education and Technology Minister",
+              "links": [
+                {
+                  "text": "Higher Education and Technology Minister",
+                  "type": "internal",
+                  "page": "Ministry of Higher Education and Scientific Research (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.mohesr.gov.iq/",
+              "links": [
+                {
+                  "text": "www.mohesr.gov.iq/",
+                  "type": "external",
+                  "site": "http://www.mohesr.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Nabil Abdulsahib"
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": "6 May 2020"
+            },
+            "References": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Industry & Minerals Minister",
+              "links": [
+                {
+                  "text": "Industry & Minerals Minister",
+                  "type": "internal",
+                  "page": "Ministry of Industry (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.industry.gov.iq",
+              "links": [
+                {
+                  "text": "www.industry.gov.iq",
+                  "type": "external",
+                  "site": "https://web.archive.org/web/20181111035130/http://www.industry.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Manhal Aziz",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manhal Aziz"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            },
+            "References": {
+              "text": "6 May 2020"
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Labour & Social Affairs Minister"
+            },
+            "Website": {
+              "text": "www.molsa.gov.iq",
+              "links": [
+                {
+                  "text": "www.molsa.gov.iq",
+                  "type": "external",
+                  "site": "http://www.molsa.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Adil Hashush",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adil Hashush"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            },
+            "References": {
+              "text": "6 May 2020"
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Migration Minister"
+            },
+            "Website": {
+              "text": "www.momd.gov.iq/",
+              "links": [
+                {
+                  "text": "www.momd.gov.iq/",
+                  "type": "external",
+                  "site": "https://momd.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Evan Faeq Yakoob"
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": "6 June 2020"
+            },
+            "References": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Planning Minister",
+              "links": [
+                {
+                  "text": "Planning Minister",
+                  "type": "internal",
+                  "page": "Ministry of Planning (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.mop.gov.iq/",
+              "links": [
+                {
+                  "text": "www.mop.gov.iq/",
+                  "type": "external",
+                  "site": "https://www.mop.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Khalid Najim"
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": "6 May 2020"
+            },
+            "References": {
+              "text": ""
+            },
+            "col9": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Trade Minister",
+              "links": [
+                {
+                  "text": "Trade Minister",
+                  "type": "internal",
+                  "page": "Ministry of Trade (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "|www.mot.gov.iq",
+              "links": [
+                {
+                  "text": "www.mot.gov.iq",
+                  "type": "external",
+                  "site": "http://www.mot.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Alla Ahmed Hassan"
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": "none",
+              "formatting": {
+                "italic": [
+                  "none"
+                ]
+              }
+            },
+            "Dates": {
+              "text": "6 June 2020"
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Transport Minister",
+              "links": [
+                {
+                  "text": "Transport Minister",
+                  "type": "internal",
+                  "page": "Ministry of Transport (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.motrans.gov.iq",
+              "links": [
+                {
+                  "text": "www.motrans.gov.iq",
+                  "type": "external",
+                  "site": "http://www.motrans.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Nasir Hussein"
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            },
+            "References": {
+              "text": "6 May 2020"
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Water Resources Minister",
+              "links": [
+                {
+                  "text": "Water Resources Minister",
+                  "type": "internal",
+                  "page": "Ministry of Water Resources (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.mowr.gov.iq/",
+              "links": [
+                {
+                  "text": "www.mowr.gov.iq/",
+                  "type": "external",
+                  "site": "https://mowr.gov.iq/"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Mahdi Rashid",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mahdi Rashid"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            },
+            "References": {
+              "text": "6 May 2020"
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            }
+          },
+          {
+            "Image": {
+              "text": ""
+            },
+            "Office": {
+              "text": "Youth & Sport Minister",
+              "links": [
+                {
+                  "text": "Youth & Sport Minister",
+                  "type": "internal",
+                  "page": "Ministry of Youth and Sports (Iraq)"
+                }
+              ]
+            },
+            "Website": {
+              "text": "www.moys.gov.iq/ar",
+              "links": [
+                {
+                  "text": "www.moys.gov.iq/ar",
+                  "type": "external",
+                  "site": "https://www.moys.gov.iq/ar"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "Adnan Dirjal",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adnan Dirjal"
+                }
+              ]
+            },
+            "Coalition": {
+              "text": ""
+            },
+            "Party": {
+              "text": ""
+            },
+            "Dates": {
+              "text": ""
+            },
+            "References": {
+              "text": "6 May 2020"
+            },
+            "col9": {
+              "text": ""
+            },
+            "col10": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://syriacpress.com/blog/2020/06/12/iraqi-prime-minister-kadhimi-visits-villages-and-towns-in-nineveh-plains/",
+          "title": "Iraqi Prime Minister Kadhimi visits villages and towns in Nineveh Plains",
+          "last": "Press",
+          "first": "Syriac",
+          "date": "June 12, 2020",
+          "website": "Syriac Press",
+          "access-date": "July 9, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.al-monitor.com/pulse/originals/2020/05/iraq-new-cabinet-mustafa-kadhimi-economy-security-covid19.html",
+          "title": "Meet Iraq’s new Cabinet",
+          "work": "Al-Monitor",
+          "date": "7 May 2020",
+          "access-date": "10 May 2020",
+          "author": "Ali Mamouri",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of cabinets",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of cabinets"
+              }
+            ]
+          },
+          {
+            "text": "Politics of Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of Iraq"
+              }
+            ]
+          },
+          {
+            "text": "Political minister",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Political minister"
+              }
+            ]
+          },
+          {
+            "text": "Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iraq"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "official website"
+        },
+        {
+          "list": [
+            "ar"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "iraq topics"
+        },
+        {
+          "list": [
+            "Cabinet of"
+          ],
+          "title": "National cabinets of Asia",
+          "template": "asia topic"
+        }
+      ]
+    }
+  ]
+}
