@@ -1,0 +1,131 @@
+{
+  "title": "Al-Kadhimi Government",
+  "pageID": 69629826,
+  "categories": [
+    "Cabinets of Iraq",
+    "Cabinets established in 2020",
+    "Lists of current governments",
+    "2020 establishments in Iraq"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Al-Kadhimi Government is the current government of Iraq (as of December 2021), led by Prime Minister Mustafa Al-Kadhimi.",
+              "links": [
+                {
+                  "text": "government of Iraq",
+                  "type": "internal",
+                  "page": "government of Iraq"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Iraq"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mustafa Al-Kadhimi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Al-Kadhimi Government"
+                ]
+              }
+            },
+            {
+              "text": "It was formed on 6 May 2020 after extensive negotiations."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:President Trump Welcomes the Prime Minister of Iraq to the White House (50248640381) (cropped).jpg",
+          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/President_Trump_Welcomes_the_Prime_Minister_of_Iraq_to_the_White_House_(50248640381)_(cropped).jpg?width=300",
+          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/President_Trump_Welcomes_the_Prime_Minister_of_Iraq_to_the_White_House_(50248640381)_(cropped).jpg",
+          "caption": "Prime Minister al-Kadhimi in 2020",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2022",
+          "template": "expand arabic"
+        },
+        {
+          "description": "Government of Iraq (2020–present)",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "title": "Election Victory of Shiite Cleric Could Break Iran’s Grip on Iraqi Politics, Observers Say",
+          "url": "https://www.voanews.com/a/election-victory-of-shiite-cleric-could-break-iran-s-grip-on-iraqi-politics-observers-say/6374530.html",
+          "access-date": "2021-12-30",
+          "website": "Voice of America",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Coles",
+          "first1": "Isabel",
+          "last2": "Adnan",
+          "first2": "Ghassan",
+          "date": "2020-05-29",
+          "title": "A New Leader Tries to Steer Iraq Through the U.S.-Iran Rivalry",
+          "language": "en-US",
+          "work": "Wall Street Journal",
+          "url": "https://www.wsj.com/articles/a-new-leader-tries-to-steer-iraq-through-the-u-s-iran-rivalry-11590753600",
+          "access-date": "2021-12-30",
+          "issn": "0099-9660",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Aldroubi",
+          "first": "Mina",
+          "date": "2020-05-07",
+          "title": "Iraqi Parliament confirms Mustafa Al Kadhimi as new Prime Minister",
+          "url": "https://www.thenationalnews.com/world/mena/iraqi-parliament-confirms-mustafa-al-kadhimi-as-new-prime-minister-1.1015930",
+          "url-status": "live",
+          "access-date": "2021-12-30",
+          "website": "The National",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "iraqi governments"
+        },
+        {
+          "template": "iraq-stub"
+        },
+        {
+          "template": "gov-stub"
+        }
+      ]
+    }
+  ]
+}
