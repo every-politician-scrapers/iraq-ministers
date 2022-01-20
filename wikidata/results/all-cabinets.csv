@@ -2,5 +2,6 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q1413658,Iraqi Transitional Government,2005-05-03,11,,,2006-05-20,11,,,Q187332,Iraqi Interim Government,Q3112523,Al Maliki I Government,,,,
 ,Q3112523,Al Maliki I Government,2006-05-20,11,,,2010-12-22,11,,,Q1413658,Iraqi Transitional Government,Q4704364,Al Maliki II Government,,,,
 ,Q4704364,Al Maliki II Government,2010-12-22,11,,,2014-09-08,11,,,Q3112523,Al Maliki I Government,Q20384242,Al Abadi Government,,,,
+,Q20384242,Al Abadi Government,2014-09-08,11,,,2018-10-25,11,,,Q4704364,Al Maliki II Government,Q57899413,Abdul Mahdi Government,,,,
 ,Q57899413,Abdul Mahdi Government,2018-10-24,11,,,2020-05-07,11,,,Q20384242,Al Abadi Government,Q100258471,Al-Kadhimi Government,,,,
 ,Q100258471,Al-Kadhimi Government,2020-05-06,11,,,,,,,Q57899413,Abdul Mahdi Government,,,,,,
