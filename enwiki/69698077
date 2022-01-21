@@ -1,0 +1,199 @@
+{
+  "title": "Chief of the Iraqi General Staff",
+  "pageID": 69698077,
+  "categories": [
+    "Iraq",
+    "Military"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Chief of the General Staff of the Armed Forces of Iraq (رئاسة اركان الجيش العراقي) is the chief of the General Staff of the Armed Forces of Iraq.",
+              "links": [
+                {
+                  "text": "chief",
+                  "type": "internal",
+                  "page": "Chief of staff"
+                },
+                {
+                  "text": "Armed Forces of Iraq",
+                  "type": "internal",
+                  "page": "Iraqi Armed Forces"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chief of the General Staff of the Armed Forces of Iraq"
+                ]
+              }
+            },
+            {
+              "text": "He is appointed by the Prime Minister of Iraq, who is the commander-in-chief.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Iraq"
+                },
+                {
+                  "text": "commander-in-chief",
+                  "type": "internal",
+                  "page": "commander-in-chief"
+                }
+              ]
+            },
+            {
+              "text": "The position dates to the period of the Independence of Iraq.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Independence of Iraq"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The current Chief of the General Staff is General Abdel Emir Yarallah, since 8 June July 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdel Emir Yarallah"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "post": {
+            "text": "Chief of the General Staff"
+          },
+          "member_of": {
+            "text": "General Staff",
+            "links": [
+              {
+                "text": "General Staff",
+                "type": "internal",
+                "page": "General Staff of the Armed Forces of Iraq"
+              }
+            ]
+          },
+          "first": {
+            "text": "Saleh Saeb"
+          },
+          "formation": {
+            "text": "6 Jan 1921"
+          },
+          "appointer": {
+            "text": "Prime Minister of Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Iraq"
+              }
+            ]
+          },
+          "seat": {
+            "text": "Green Zone, Baghdad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Green Zone"
+              },
+              {
+                "type": "internal",
+                "page": "Baghdad"
+              }
+            ]
+          },
+          "reports_to": {
+            "text": "Ministry of Defense",
+            "links": [
+              {
+                "text": "Ministry of Defense",
+                "type": "internal",
+                "page": "Ministry of Defense (Iraq)"
+              }
+            ]
+          },
+          "department": {
+            "text": "Ministry of Defense",
+            "links": [
+              {
+                "text": "Ministry of Defense",
+                "type": "internal",
+                "page": "Ministry of Defense (Iraq)"
+              }
+            ]
+          },
+          "incumbentsince": {
+            "text": "8 June 2020"
+          },
+          "native_name": {
+            "text": "رئاسة اركان الجيش"
+          },
+          "incumbent": {
+            "text": "General Abdel Emir Yarallah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdel Emir Yarallah"
+              }
+            ]
+          },
+          "image": {
+            "text": "عبد الأمير رشيد يار الله.jpg"
+          },
+          "insigniacaption": {
+            "text": "Shoulder insignia specificly for the chief"
+          },
+          "insigniasize": {
+            "text": "50px"
+          },
+          "insignia": {
+            "text": "IraqArmyRankInsignia-2.png"
+          },
+          "flagsize": {
+            "text": "115px"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "في ذكرى تأسيسه.. تعرف على أبرز محطات الجيش العراقي",
+          "url": "https://kirkuknow.com/ar/news/61094",
+          "access-date": "2022-01-07",
+          "website": "كركوك ناو",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "الكاظمي يعين مجموعة جديدة من المسؤولين في مناصب عليا",
+          "url": "https://aawsat.com/home/article/2508336/%D8%A7%D9%84%D9%83%D8%A7%D8%B8%D9%85%D9%8A-%D9%8A%D8%B9%D9%8A%D9%86-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D8%B9%D9%84%D9%8A%D8%A7",
+          "access-date": "2022-01-07",
+          "website": "الشرق الأوسط",
+          "language": "ar",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "iraqi security forces"
+        }
+      ]
+    }
+  ]
+}

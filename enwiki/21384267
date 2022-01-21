@@ -1,0 +1,900 @@
+{
+  "title": "Ministry of Finance (Iraq)",
+  "pageID": 21384267,
+  "categories": [
+    "Government ministries of Iraq",
+    "Finance ministries"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The  Ministry of Finance is the Iraq government agency responsible for public finance of Iraq, Central Bank of Iraq, and banking regulations.",
+              "links": [
+                {
+                  "text": "Iraq government",
+                  "type": "internal",
+                  "page": "Politics of Iraq"
+                },
+                {
+                  "text": "agency",
+                  "type": "internal",
+                  "page": "government agency"
+                },
+                {
+                  "text": "public finance",
+                  "type": "internal",
+                  "page": "public finance"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iraq"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central Bank of Iraq"
+                },
+                {
+                  "text": "banking regulations",
+                  "type": "internal",
+                  "page": "banking regulation"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  " Ministry of Finance"
+                ]
+              }
+            },
+            {
+              "text": "The current Minister of Finance is Ali Allawi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ali Allawi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iraqi government ministry",
+          "template": "short description"
+        },
+        {
+          "display": "title",
+          "template": "coord",
+          "lat": 33.355,
+          "lon": 44.39639
+        }
+      ],
+      "infoboxes": [
+        {
+          "agency_name": {
+            "text": "Republic of Iraq Ministry of Finance"
+          },
+          "nativename": {
+            "text": "وزارة المالية"
+          },
+          "logo": {
+            "text": "Ministry of Finance logo (Iraq).jpg"
+          },
+          "minister1_name": {
+            "text": "Ali Allawi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Allawi"
+              }
+            ]
+          },
+          "minister1_pfo": {
+            "text": "Minister"
+          },
+          "agency_type": {
+            "text": "Ministry"
+          },
+          "website": {
+            "text": "www.mof.gov.iq",
+            "links": [
+              {
+                "text": "www.mof.gov.iq",
+                "type": "external",
+                "site": "http://www.mof.gov.iq"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ministers of Finance in the Kingdom of Iraq",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Sassoon Eskell, 1920-1921",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sassoon Eskell"
+              }
+            ]
+          },
+          {
+            "text": "Sassoon Eskell, 1921-1923",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sassoon Eskell"
+              }
+            ]
+          },
+          {
+            "text": "Abdel Mohsen Shalash, 1923-1924",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdel Mohsen Shalash"
+              }
+            ]
+          },
+          {
+            "text": "Sassoon Eskell, 1924-1925",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sassoon Eskell"
+              }
+            ]
+          },
+          {
+            "text": "Abdul-Muhsin Al-Saadoun, 1925-1926",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul-Muhsin Al-Saadoun"
+              }
+            ]
+          },
+          {
+            "text": "Yasin al-Hashimi, 1926-1928",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yasin al-Hashimi"
+              }
+            ]
+          },
+          {
+            "text": "Yousef Ghanima, 1928-1929",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yousef Ghanima"
+              }
+            ]
+          },
+          {
+            "text": "Yasin al-Hashimi, 1929-1930",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yasin al-Hashimi"
+              }
+            ]
+          },
+          {
+            "text": "Ali Jawdat al-Aiyubi, 1930",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Jawdat al-Aiyubi"
+              }
+            ]
+          },
+          {
+            "text": "Rustum Haidar, 1930-1932",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rustum Haidar"
+              }
+            ]
+          },
+          {
+            "text": "Nasrat al-Farisi, 1932-1933",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nasrat al-Farisi"
+              }
+            ]
+          },
+          {
+            "text": "Yasin al-Hashimi, ?-1933",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yasin al-Hashimi"
+              }
+            ]
+          },
+          {
+            "text": "Nasrat al-Farisi, 1933-1934",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nasrat al-Farisi"
+              }
+            ]
+          },
+          {
+            "text": "Naji al-Suwaydi, 1934",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Naji al-Suwaydi"
+              }
+            ]
+          },
+          {
+            "text": "Yousef Ghanima, 1934-1935",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yousef Ghanima"
+              }
+            ]
+          },
+          {
+            "text": "Raouf Al Bahrani, 1935-1936",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raouf Al Bahrani"
+              }
+            ]
+          },
+          {
+            "text": "Ja'far Abu al-Timman, 1936-1937",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ja'far Abu al-Timman"
+              }
+            ]
+          },
+          {
+            "text": "Mohammed Ali Mahmoud, 1937",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed Ali Mahmoud"
+              }
+            ]
+          },
+          {
+            "text": "Ibrahim Kemal, 1937-1938",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Kemal"
+              }
+            ]
+          },
+          {
+            "text": "Rustum Haidar, 1938-1940",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rustum Haidar"
+              }
+            ]
+          },
+          {
+            "text": "Raouf Al Bahrani, 1940",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raouf Al Bahrani"
+              }
+            ]
+          },
+          {
+            "text": "Naji al-Suwaydi, 1940-1941",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Naji al-Suwaydi"
+              }
+            ]
+          },
+          {
+            "text": "Ali Mumtaz al-Daftary, 1941",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Mumtaz al-Daftary"
+              }
+            ]
+          },
+          {
+            "text": "Naji al-Suwaydi, 1941",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Naji al-Suwaydi"
+              }
+            ]
+          },
+          {
+            "text": "Ibrahim Kemal, 1941",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Kemal"
+              }
+            ]
+          },
+          {
+            "text": "Ali Mumtaz al-Daftary, 1941-1942",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Mumtaz al-Daftary"
+              }
+            ]
+          },
+          {
+            "text": "Salih Jabr, 1942-1943",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salih Jabr"
+              }
+            ]
+          },
+          {
+            "text": "Jalal Baban, 1943",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jalal Baban"
+              }
+            ]
+          },
+          {
+            "text": "Abd al-Ilah Hafiz, 1943",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abd al-Ilah Hafiz"
+              }
+            ]
+          },
+          {
+            "text": "Ali Mumtaz al-Daftary, 1943-1944",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Mumtaz al-Daftary"
+              }
+            ]
+          },
+          {
+            "text": "Abdul Wahab Mahmoud, 1946",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Wahab Mahmoud"
+              }
+            ]
+          },
+          {
+            "text": "Yousef Ghanima, ?-1946",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yousef Ghanima"
+              }
+            ]
+          },
+          {
+            "text": "Salih Jabir, 1946",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salih Jabir"
+              }
+            ]
+          },
+          {
+            "text": "Abd al-Ilah Hafiz, 1946-1947",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abd al-Ilah Hafiz"
+              }
+            ]
+          },
+          {
+            "text": "Jamil al-Midfai, ?-?",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamil al-Midfai"
+              }
+            ]
+          },
+          {
+            "text": "Ali Mumtaz al-Daftary, 1948",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Mumtaz al-Daftary"
+              }
+            ]
+          },
+          {
+            "text": "Ibrahim Shabandar, ?-1952",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Shabandar"
+              }
+            ]
+          },
+          {
+            "text": "Ali Mahmud al-Shaykh, 1952-1953",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Mahmud al-Shaykh"
+              }
+            ]
+          },
+          {
+            "text": "Ali Mumtaz al-Daftary, 1953",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Mumtaz al-Daftary"
+              }
+            ]
+          },
+          {
+            "text": "Abd al-Karim al-Uzri, 1953-1954",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abd al-Karim al-Uzri"
+              }
+            ]
+          },
+          {
+            "text": "Ali Mumtaz al-Daftary, 1954",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Mumtaz al-Daftary"
+              }
+            ]
+          },
+          {
+            "text": "Dhia Jafar, 1954-1955",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dhia Jafar"
+              }
+            ]
+          },
+          {
+            "text": "Abd al-Karim al-Uzri, ?-1958",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abd al-Karim al-Uzri"
+              }
+            ]
+          },
+          {
+            "text": "Nadim al-Pachachi, 1958",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nadim al-Pachachi"
+              }
+            ]
+          },
+          {
+            "text": "Abd al-Karim al-Uzri, 1958",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abd al-Karim al-Uzri"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Ministers of Finance in republican Iraq",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Mohammed Hadid, 1958-1963",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed Hadid"
+              }
+            ]
+          },
+          {
+            "text": "Salih Kubba, 1963",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salih Kubba"
+              }
+            ]
+          },
+          {
+            "text": "Muhammad Jawad al-Ubasi, 1963",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammad Jawad al-Ubasi"
+              }
+            ]
+          },
+          {
+            "text": "Salman Al-Aswad, 1963",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salman Al-Aswad"
+              }
+            ]
+          },
+          {
+            "text": "Muhammad Jawad al-Ubasi, 1963-1965",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammad Jawad al-Ubasi"
+              }
+            ]
+          },
+          {
+            "text": "Salman Al-Aswad, 1965",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salman Al-Aswad"
+              }
+            ]
+          },
+          {
+            "text": "Shukri Saleh Zaki, 1965-1966",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shukri Saleh Zaki"
+              }
+            ]
+          },
+          {
+            "text": "Abdullah al-Naqshabandi, 1966-1967",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdullah al-Naqshabandi"
+              }
+            ]
+          },
+          {
+            "text": "Abdul Rahman al-Habib, 1967-1968",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Rahman al-Habib"
+              }
+            ]
+          },
+          {
+            "text": "Amin Abd al-Karim, 1968-1974",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amin Abd al-Karim"
+              }
+            ]
+          },
+          {
+            "text": "Saadi Ibrahim, 1974-1975",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saadi Ibrahim"
+              }
+            ]
+          },
+          {
+            "text": "Fawzi Abdullah al-Qaisi, 1975-1979",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fawzi Abdullah al-Qaisi"
+              }
+            ]
+          },
+          {
+            "text": "Thamir Razzuqi, 1979-1983",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thamir Razzuqi"
+              }
+            ]
+          },
+          {
+            "text": "Hisham Hassan Tawfiq, 1983-1987",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hisham Hassan Tawfiq"
+              }
+            ]
+          },
+          {
+            "text": "Hikmat Omar Mukhaylif, 1987-1989",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hikmat Omar Mukhaylif"
+              }
+            ]
+          },
+          {
+            "text": "Muhammad Mahdi Salih, 1989-1991",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammad Mahdi Salih"
+              }
+            ]
+          },
+          {
+            "text": "Majid Abd Jafar, 1991-1992",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Majid Abd Jafar"
+              }
+            ]
+          },
+          {
+            "text": "Ahmad Husayn Khudayir as-Samarrai, 1992-?",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmad Husayn Khudayir as-Samarrai"
+              }
+            ]
+          },
+          {
+            "text": "Ahmad Husayn Khudayir as-Samarrai, 1993-1994",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmad Husayn Khudayir as-Samarrai"
+              }
+            ]
+          },
+          {
+            "text": "Hikmat Mizban Ibrahim al-Azzawi, 1994-2003",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hikmat Mizban Ibrahim al-Azzawi"
+              }
+            ]
+          },
+          {
+            "text": "Kamel al-Kilani, 2003-2004",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kamel al-Kilani"
+              }
+            ]
+          },
+          {
+            "text": "Adil Abdul-Mahdi, 2004-2005",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adil Abdul-Mahdi"
+              }
+            ]
+          },
+          {
+            "text": "Ali Allawi, 2005-2006",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Allawi"
+              }
+            ]
+          },
+          {
+            "text": "Baqir Jabr al-Zubeidi, 2006-2010",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baqir Jabr al-Zubeidi"
+              }
+            ]
+          },
+          {
+            "text": "Rafi al-Issawi, 2010-2013",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rafi al-Issawi"
+              }
+            ]
+          },
+          {
+            "text": "Ali Yousif Al-Shukri, 2013",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Yousif Al-Shukri"
+              }
+            ]
+          },
+          {
+            "text": "Safa al-Safi, 2013-?",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Safa al-Safi"
+              }
+            ]
+          },
+          {
+            "text": "Najeeba Najeeb, ?-2014",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najeeba Najeeb"
+              }
+            ]
+          },
+          {
+            "text": "Hoshiyar Zebari, 2014-2016",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hoshiyar Zebari"
+              }
+            ]
+          },
+          {
+            "text": "Abdul Razzaq al-Issa, 2016-2018",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Razzaq al-Issa"
+              }
+            ]
+          },
+          {
+            "text": "Fuad Hussein, 2018-2020",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fuad Hussein"
+              }
+            ]
+          },
+          {
+            "text": "Ali Allawi, 2020-",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Allawi"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "__INDEX__"
+            },
+            {
+              "text": "__NEWSECTIONLINK__"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "iraq-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Iraq Ministry of Finance official website",
+            "links": [
+              {
+                "text": "Iraq Ministry of Finance official website",
+                "type": "external",
+                "site": "http://www.mof.gov.iq"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
