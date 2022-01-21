@@ -1,0 +1,233 @@
+{
+  "title": "Fuad Hussein",
+  "pageID": 58896613,
+  "categories": [
+    "Government ministers of Iraq",
+    "Living people",
+    "Iraqi Shia Muslims",
+    "Kurdistan Democratic Party politicians",
+    "1946 births",
+    "Finance ministers of Iraq",
+    "Kurdish politicians",
+    "People from Khanaqin"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fuad Mohammed Hussein (فووئاد حوسێن ,Fûad Husên) is an Iraqi Kurdish politician from the Kurdistan Democratic Party who is the current Iraqi Minister of Foreign Affairs. He was previously the Minister of Finance in the Government of Adil Abdul-Mahdi.",
+              "links": [
+                {
+                  "text": "Iraqi Kurdish",
+                  "type": "internal",
+                  "page": "Kurds in Iraq"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kurdistan Democratic Party"
+                },
+                {
+                  "text": "Iraqi Minister of Foreign Affairs.",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Iraq)"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Iraq)"
+                },
+                {
+                  "text": "Government",
+                  "type": "internal",
+                  "page": "Abdul Mahdi Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Adil Abdul-Mahdi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fuad Mohammed Hussein"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "birth_year": "1946",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Fuad Hussein"
+          },
+          "image": {
+            "text": "Secretary Pompeo and Iraqi Foreign Minister Hussein Deliver Opening Remarks at the U.S.-Iraq Strategic Dialogue (50244012273) (cropped).jpg"
+          },
+          "imagesize": {
+            "text": "220px"
+          },
+          "office1": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Iraq)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Adil Abdul-Mahdi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adil Abdul-Mahdi"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 October 2018"
+          },
+          "term_end1": {
+            "text": "7 May 2020"
+          },
+          "predecessor1": {
+            "text": "Abdul Razzaq al-Issa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdul Razzaq al-Issa"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Ali Allawi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Allawi"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Iraq)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 June 2020"
+          },
+          "primeminister": {
+            "text": "Mustafa Al-Kadhimi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mustafa Al-Kadhimi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mustafa Al-Kadhimi (acting)"
+          },
+          "office2": {
+            "text": "Chief of Staff President of Iraqi Kurdistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Iraqi Kurdistan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "14 June 2005"
+          },
+          "term_end2": {
+            "text": "1 November 2017"
+          },
+          "president2": {
+            "text": "Masoud Barzani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masoud Barzani"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
+          },
+          "party": {
+            "text": "Kurdistan Democratic (1966–1974, since 1983)\nPatriotic Union of Kurdistan (1974–1983)",
+            "links": [
+              {
+                "text": "Kurdistan Democratic",
+                "type": "internal",
+                "page": "Kurdistan Democratic Party"
+              },
+              {
+                "type": "internal",
+                "page": "Patriotic Union of Kurdistan"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1946 (age 76)"
+          },
+          "birth_place": {
+            "text": "Khanaqin, Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khanaqin"
+              },
+              {
+                "text": "Iraq",
+                "type": "internal",
+                "page": "Kingdom of Iraq"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Iraqi - Dutch",
+            "links": [
+              {
+                "text": "Iraqi",
+                "type": "internal",
+                "page": "Iraq"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Baghdad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Baghdad"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

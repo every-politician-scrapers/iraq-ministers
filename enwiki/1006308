@@ -1,0 +1,439 @@
+{
+  "title": "Barham Salih",
+  "pageID": 1006308,
+  "categories": [
+    "1960 births",
+    "People from Sulaymaniyah",
+    "Iraqi Kurdish people",
+    "Living people",
+    "Alumni of Cardiff University",
+    "Members of the Council of Representatives of Iraq",
+    "Government ministers of Iraq",
+    "Kurdish Muslims",
+    "Patriotic Union of Kurdistan politicians",
+    "Presidents of Iraq",
+    "Kurdish politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Barham Salih (بەرھەم ساڵح; برهم صالح; born 12 September 1960) is an Iraqi politician of Kurdish origin who is serving as the 8th president of Iraq.",
+              "links": [
+                {
+                  "text": "Iraqi",
+                  "type": "internal",
+                  "page": "Iraqis"
+                },
+                {
+                  "text": "Kurdish",
+                  "type": "internal",
+                  "page": "Kurds"
+                },
+                {
+                  "text": "8th",
+                  "type": "internal",
+                  "page": "List of presidents of Iraq"
+                },
+                {
+                  "text": "president of Iraq",
+                  "type": "internal",
+                  "page": "president of Iraq"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Barham Salih"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the former prime minister of the Kurdistan Region and a former deputy prime minister of the Iraqi federal government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kurdistan Region"
+                },
+                {
+                  "text": "Iraqi federal government",
+                  "type": "internal",
+                  "page": "Federal government of Iraq"
+                }
+              ]
+            },
+            {
+              "text": "He was elected and assumed office as the 8th President of Iraq on 2 October 2018."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "8th president of Iraq",
+          "template": "short description"
+        },
+        {
+          "date": "July 2021",
+          "template": "update"
+        },
+        {
+          "date": "October 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1960",
+          "month": "09",
+          "day": "12",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Barham Salih"
+          },
+          "image": {
+            "text": "Barham Salih (cropped).jpg"
+          },
+          "caption": {
+            "text": "Salih in 2019"
+          },
+          "order": {
+            "text": "8th"
+          },
+          "office": {
+            "text": "President of Iraq"
+          },
+          "primeminister": {
+            "text": "Adil Abdul-Mahdi Mustafa Al-Kadhimi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adil Abdul-Mahdi"
+              },
+              {
+                "type": "internal",
+                "page": "Mustafa Al-Kadhimi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 October 2018"
+          },
+          "predecessor": {
+            "text": "Fuad Masum",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fuad Masum"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Prime Minister of Kurdistan Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Kurdistan Region"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 October 2009"
+          },
+          "president1": {
+            "text": "Masoud Barzani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masoud Barzani"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Nechirvan Barzani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nechirvan Barzani"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Nechirvan Barzani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nechirvan Barzani"
+              }
+            ]
+          },
+          "term_end1": {
+            "text": "5 April 2012"
+          },
+          "term_start2": {
+            "text": "21 January 2001"
+          },
+          "term_end2": {
+            "text": "20 July 2004"
+          },
+          "president2": {
+            "text": "Jalal Talabani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jalal Talabani"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Kosrat Rasul Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kosrat Rasul Ali"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Omar Fattah Hussein (acting)",
+            "formatting": {
+              "italic": [
+                "(acting)"
+              ]
+            }
+          },
+          "office3": {
+            "text": "Deputy Prime Minister of Iraq",
+            "links": [
+              {
+                "text": "Deputy Prime Minister of Iraq",
+                "type": "internal",
+                "page": "Deputy Prime Minister"
+              }
+            ]
+          },
+          "alongside3": {
+            "text": "Salam al-Zaubai, Rafi al-Issawi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salam al-Zaubai"
+              },
+              {
+                "type": "internal",
+                "page": "Rafi al-Issawi"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "20 May 2006"
+          },
+          "term_end3": {
+            "text": "20 August 2009"
+          },
+          "president3": {
+            "text": "Jalal Talabani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jalal Talabani"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Nouri al-Maliki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nouri al-Maliki"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Rowsch Shaways",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rowsch Shaways"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Rowsch Shaways",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rowsch Shaways"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "28 June 2004"
+          },
+          "term_end4": {
+            "text": "3 May 2005"
+          },
+          "primeminister4": {
+            "text": "Iyad Allawi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iyad Allawi"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Coalition Provisional Authority",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Coalition Provisional Authority"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Rowsch Shaways",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rowsch Shaways"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Chair of Board of Trustees at The American University of Iraq, Sulaimani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The American University of Iraq, Sulaimani"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end5": {
+            "text": "2017",
+            "number": 2017
+          },
+          "predecessor5": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "successor5": {
+            "text": "Jill Derby",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jill Derby"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Barham Ahmed Salih"
+          },
+          "birth_date": {
+            "text": "September 12, 1960"
+          },
+          "birth_place": {
+            "text": "Slemani, Kurdistan Region, Iraq",
+            "links": [
+              {
+                "text": "Slemani",
+                "type": "internal",
+                "page": "Sulaymaniyah"
+              },
+              {
+                "type": "internal",
+                "page": "Kurdistan Region"
+              },
+              {
+                "text": "Iraq",
+                "type": "internal",
+                "page": "Iraqi Republic (1958–68)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "🇮🇶"
+          },
+          "spouse": {
+            "text": "Sarbagh Salih"
+          },
+          "party": {
+            "text": "Patriotic Union of Kurdistan (1976–2017, 2018–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patriotic Union of Kurdistan"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Coalition for Democracy and Justice (2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Coalition for Democracy and Justice"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Radwaniyah Palace, Baghdad, Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Radwaniyah Palace"
+              },
+              {
+                "type": "internal",
+                "page": "Baghdad"
+              }
+            ]
+          },
+          "website": {
+            "text": "www.barhamsalih.net",
+            "links": [
+              {
+                "text": "www.barhamsalih.net",
+                "type": "external",
+                "site": "https://web.archive.org/web/20090701001032/http://barhamsalih.net/index.html"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Cardiff University\nUniversity of Liverpool",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cardiff University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Liverpool"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "🇮🇶\n🇬🇧"
+          }
+        }
+      ]
+    }
+  ]
+}
