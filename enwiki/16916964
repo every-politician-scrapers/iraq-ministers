@@ -1,0 +1,176 @@
+{
+  "title": "Ministry of Communications (Iraq)",
+  "pageID": 16916964,
+  "categories": [
+    "Government ministries of Iraq",
+    "Communications in Iraq",
+    "Communications ministries"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of Communications of Iraq (MoC) is the federal government ministry concerned with providing basic telecommunications services to the public, government, and businesses.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iraq"
+                },
+                {
+                  "text": "federal government",
+                  "type": "internal",
+                  "page": "federal government of Iraq"
+                },
+                {
+                  "text": "telecommunications services",
+                  "type": "internal",
+                  "page": "telecommunications service"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of Communications"
+                ]
+              }
+            },
+            {
+              "text": "The MoC provides postal service to the general public and manages postal savings accounts."
+            },
+            {
+              "text": "It also runs the State Company for Internet Services and represents Iraq at international organization such as the International Telecommunication Union (ITU) and the Universal Postal Union (IPU).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State Company for Internet Services"
+                },
+                {
+                  "type": "internal",
+                  "page": "International Telecommunication Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Universal Postal Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Republic of Iraq Ministry of Communications"
+          },
+          "native_name": {
+            "text": "وزارة الاتصالات"
+          },
+          "logo": {
+            "text": "MOC.jpg"
+          },
+          "jurisdiction": {
+            "text": "Government of Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Iraq"
+              }
+            ]
+          },
+          "headquarters": {
+            "text": "Baghdad, Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baghdad"
+              },
+              {
+                "type": "internal",
+                "page": "Iraq"
+              }
+            ]
+          },
+          "chief1_name": {
+            "text": "Arkan Shahab"
+          },
+          "website": {
+            "text": "www.moc.gov.iq"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "National Communications and Media Commission of Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Communications and Media Commission of Iraq"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "iraq-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Iraq Ministry of Communications official website",
+            "links": [
+              {
+                "text": "Iraq Ministry of Communications official website",
+                "type": "external",
+                "site": "http://www.moc.gov.iq/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
