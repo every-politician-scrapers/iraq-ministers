@@ -137,10 +137,15 @@
       ],
       "references": [
         {
+          "last1": "Weidner",
+          "first1": "Jan",
+          "title": "The Organisation and Structure of Central Banks",
+          "url": "https://d-nb.info/1138787981/34",
+          "website": "Katalog der Deutschen Nationalbibliothek",
+          "year": "2017",
+          "format": "PDF",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
