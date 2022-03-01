@@ -351,7 +351,7 @@
             "text": "September 12, 1960"
           },
           "birth_place": {
-            "text": "Slemani, Kurdistan Region, Iraq",
+            "text": "Slemani, Kurdistan, Iraq",
             "links": [
               {
                 "text": "Slemani",
@@ -359,6 +359,7 @@
                 "page": "Sulaymaniyah"
               },
               {
+                "text": "Kurdistan",
                 "type": "internal",
                 "page": "Kurdistan Region"
               },
@@ -370,7 +371,7 @@
             ]
           },
           "nationality": {
-            "text": "🇮🇶"
+            "text": "Iraqi"
           },
           "spouse": {
             "text": "Sarbagh Salih"
@@ -430,7 +431,7 @@
             ]
           },
           "citizenship": {
-            "text": "🇮🇶\n🇬🇧"
+            "text": "Iraq\nUnited Kingdom"
           }
         }
       ]
