@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Mustafa Abdul Latif Mishatat (مصطفى عبد اللطيف مشتت; born 1967), known as Mustafa al-Kadhimi, alternatively spelt Mustafa al-Kadhimy, is a British-Iraqi politician, lawyer and bureaucrat and former intelligence officer who is serving as the Prime Minister of Iraq since May 2020.",
+              "text": "Mustafa Abdul Latif Mishatat (مصطفى عبد اللطيف مشتت; born 1964), known as Mustafa al-Kadhimi, alternatively spelt Mustafa al-Kadhimy, is a British-Iraqi politician, lawyer and bureaucrat and former intelligence officer who is serving as the Prime Minister of Iraq since May 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -59,7 +59,7 @@
           "template": "use dmy dates"
         },
         {
-          "birth_year": "1967",
+          "birth_year": "1964",
           "template": "birth year and age"
         }
       ],
@@ -191,7 +191,7 @@
             "text": "Mustafa Abdul Latif Mishatat"
           },
           "birth_date": {
-            "text": "1967 (age 55)"
+            "text": "1964 (age 58)"
           },
           "birth_place": {
             "text": "Baghdad, Iraq",
