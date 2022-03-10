@@ -1,330 +1,37 @@
 {
-  "title": "Ali Allawi",
-  "pageID": 440408,
-  "categories": [
-    "1947 births",
-    "Living people",
-    "Iraqi Muslims",
-    "Iraqi Shia Muslims",
-    "Government ministers of Iraq",
-    "Harvard Business School alumni",
-    "Iraqi expatriates in the United Kingdom",
-    "Iraqi expatriates in the United States",
-    "Iraqi monarchists",
-    "MIT School of Engineering alumni",
-    "People from Baghdad",
-    "Finance ministers of Iraq",
-    "Biogeography",
-    "Iraq portal"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ali Abdul-Amir Allawi (Arabic: علي عبد الامير علاوي), (born 1947) Iraq's Deputy Prime Minister and Finance Minister",
-              "formatting": {
-                "bold": [
-                  "Ali Abdul-Amir Allawi"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is an Iraqi politician and scholar."
-            },
-            {
-              "text": "Since May 2020, he running as the Iraq's Deputy Prime Minister and Finance Minister."
-            },
-            {
-              "text": "He was Minister of Trade and Minister of Defense in the cabinet appointed by the Interim Iraq Governing Council from September 2003 until 2004, and subsequently Minister of Finance in the Iraqi Transitional Government between 2005 and 2006.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Interim Iraq Governing Council"
-                },
-                {
-                  "type": "internal",
-                  "page": "Iraqi Transitional Government"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Iraq’s Deputy Prime Minister and Finance Minister",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1947",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ali Allawi"
-          },
-          "native_name": {
-            "text": "Ali Abdul-Amir Allawi"
-          },
-          "native_name_lang": {
-            "text": "علي عبد الامير علاوي"
-          },
-          "image": {
-            "text": "Ali-allawi-2008.jpg"
-          },
-          "alt": {
-            "text": "علي علاوي نائب رئيس الوزراء وزير المالية العراقي"
-          },
-          "office": {
-            "text": "Iraq’s Deputy Prime Minister and Finance Minister"
-          },
-          "president": {
-            "text": "Barham Salih",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barham Salih"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mustafa Al-Kadhimi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mustafa Al-Kadhimi"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 May 2020"
-          },
-          "predecessor": {
-            "text": "Fuad Hussein",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fuad Hussein"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 April 2005"
-          },
-          "term_end1": {
-            "text": "May 2006"
-          },
-          "president1": {
-            "text": "Jalal Talabani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jalal Talabani"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Ibrahim al-Jaafari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ibrahim al-Jaafari"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Adil Abdul-Mahdi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adil Abdul-Mahdi"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Baqir Jabr al-Zubeidi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baqir Jabr al-Zubeidi"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Defence",
-            "links": [
-              {
-                "text": "Minister of Defence",
-                "type": "internal",
-                "page": "Ministry of Defence (Iraq)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "April 2004"
-          },
-          "term_end2": {
-            "text": "June 2004"
-          },
-          "president2": {
-            "text": "Ghazi Mashal",
-            "links": [
-              {
-                "text": "Ghazi Mashal",
-                "type": "internal",
-                "page": "Ghazi Mashal Ajil al-Yawer"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Ayad Allawi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ayad Allawi"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Hazim al-Shaalan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hazim al-Shaalan"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Trade",
-            "links": [
-              {
-                "text": "Minister of Trade",
-                "type": "internal",
-                "page": "Ministry of Trade (Iraq)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "September 2003"
-          },
-          "term_end3": {
-            "text": "June 2004"
-          },
-          "predecessor3": {
-            "text": "Coalition Provisional Authority",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Coalition Provisional Authority"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Adil Abdul-Mahdi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adil Abdul-Mahdi"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1947 (age 75)"
-          },
-          "birth_place": {
-            "text": "Baghdad, Kingdom of Iraq",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baghdad"
-              },
-              {
-                "type": "internal",
-                "page": "Kingdom of Iraq"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "Iraq, United States, United Kingdom",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Iraq"
-              },
-              {
-                "type": "internal",
-                "page": "United States"
-              },
-              {
-                "type": "internal",
-                "page": "United Kingdom"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Iraqi",
-            "links": [
-              {
-                "text": "Iraqi",
-                "type": "internal",
-                "page": "Iraqis"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "relations": {
-            "text": "Ahmed Chalabi (uncle)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmed Chalabi"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Massachusetts Institute of Technology\nHarvard University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Massachusetts Institute of Technology"
-              },
-              {
-                "type": "internal",
-                "page": "Harvard University"
-              }
-            ]
-          },
-          "website": {
-            "text": "aliallawi.com",
-            "links": [
-              {
-                "text": "aliallawi.com",
-                "type": "external",
-                "site": "http://www.aliallawi.com/"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ali Allawi",
+  "native_name": "Ali Abdul-Amir Allawi",
+  "native_name_lang": "علي عبد الامير علاوي",
+  "image": "Ali-allawi-2008.jpg",
+  "alt": "علي علاوي نائب رئيس الوزراء وزير المالية العراقي",
+  "office": "Iraq’s Deputy Prime Minister and Finance Minister",
+  "president": "Barham Salih",
+  "primeminister": "Mustafa Al-Kadhimi",
+  "term_start": "7 May 2020",
+  "predecessor": "Fuad Hussein",
+  "term_start1": "6 April 2005",
+  "term_end1": "May 2006",
+  "president1": "Jalal Talabani",
+  "primeminister1": "Ibrahim al-Jaafari",
+  "predecessor1": "Adil Abdul-Mahdi",
+  "successor1": "Baqir Jabr al-Zubeidi",
+  "office2": "Minister of Defence",
+  "term_start2": "April 2004",
+  "term_end2": "June 2004",
+  "president2": "Ghazi Mashal",
+  "primeminister2": "Ayad Allawi",
+  "successor2": "Hazim al-Shaalan",
+  "office3": "Minister of Trade",
+  "term_start3": "September 2003",
+  "term_end3": "June 2004",
+  "predecessor3": "Coalition Provisional Authority",
+  "successor3": "Adil Abdul-Mahdi",
+  "birth_date": "1947 (age 75)",
+  "birth_place": "Baghdad, Kingdom of Iraq",
+  "citizenship": "Iraq, United States, United Kingdom",
+  "nationality": "Iraqi",
+  "party": "Independent",
+  "relations": "Ahmed Chalabi (uncle)",
+  "alma_mater": "Massachusetts Institute of Technology\nHarvard University",
+  "website": "aliallawi.com"
 }

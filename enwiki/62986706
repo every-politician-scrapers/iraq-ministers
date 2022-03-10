@@ -1,266 +1,32 @@
 {
-  "title": "Mustafa Al-Kadhimi",
-  "pageID": 62986706,
-  "categories": [
-    "1967 births",
-    "Iraqi dissidents",
-    "Iraqi Shia Muslims",
-    "Living people",
-    "Politicians from Baghdad",
-    "Prime Ministers of Iraq",
-    "21st-century Iraqi politicians",
-    "Directors of intelligence agencies"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mustafa Abdul Latif Mishatat (مصطفى عبد اللطيف مشتت; born 1964), known as Mustafa al-Kadhimi, alternatively spelt Mustafa al-Kadhimy, is a British-Iraqi politician, lawyer and bureaucrat and former intelligence officer who is serving as the Prime Minister of Iraq since May 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Iraq"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mustafa Abdul Latif Mishatat",
-                  "Mustafa al-Kadhimi",
-                  "Mustafa al-Kadhimy"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as columnist for several news outlets and the Director of the Iraqi National Intelligence Service, originally appointed in June 2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Iraqi National Intelligence Service"
-                }
-              ]
-            },
-            {
-              "text": "He briefly served as Iraqi Minister of Foreign Affairs on an acting capacity in 2020."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Prime Minister of Iraq since 2020",
-          "template": "short description"
-        },
-        {
-          "date": "November 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "birth_year": "1964",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mustafa Al-Kadhimi"
-          },
-          "native_name": {
-            "text": "مصطفى الكاظمي"
-          },
-          "native_name_lang": {
-            "text": "Arabic"
-          },
-          "image": {
-            "text": "President Trump Welcomes the Prime Minister of Iraq to the White House (50248640381) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Al-Kadhimi in 2020"
-          },
-          "office": {
-            "text": "Prime Minister of Iraq",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Iraq"
-              }
-            ]
-          },
-          "president": {
-            "text": "Barham Salih",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barham Salih"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 May 2020"
-          },
-          "predecessor": {
-            "text": "Adil Abdul-Mahdi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adil Abdul-Mahdi"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Iraq)"
-              }
-            ]
-          },
-          "termlabel1": {
-            "text": "Acting"
-          },
-          "term_start1": {
-            "text": "12 May 2020"
-          },
-          "term_end1": {
-            "text": "6 June 2020"
-          },
-          "primeminister1": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
-          },
-          "predecessor1": {
-            "text": "Mohamed Ali Alhakim",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohamed Ali Alhakim"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Fuad Hussein",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fuad Hussein"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Director of INIS",
-            "links": [
-              {
-                "text": "Director of INIS",
-                "type": "internal",
-                "page": "Iraqi National Intelligence Service"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "7 June 2016"
-          },
-          "term_end2": {
-            "text": "9 April 2020"
-          },
-          "primeminister2": {
-            "text": "Haider al-Abadi Adil Abdul-Mahdi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Haider al-Abadi"
-              },
-              {
-                "type": "internal",
-                "page": "Adil Abdul-Mahdi"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Zuheir Fadel Abbas Ghirbawi"
-          },
-          "birth_name": {
-            "text": "Mustafa Abdul Latif Mishatat"
-          },
-          "birth_date": {
-            "text": "1964 (age 58)"
-          },
-          "birth_place": {
-            "text": "Baghdad, Iraq",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baghdad"
-              },
-              {
-                "text": "Iraq",
-                "type": "internal",
-                "page": "Iraqi Republic (1958–1968)"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "Iraq, United Kingdom",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Iraq"
-              },
-              {
-                "type": "internal",
-                "page": "United Kingdom"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Republican Palace, Baghdad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Republican Palace"
-              },
-              {
-                "type": "internal",
-                "page": "Baghdad"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Heritage University (LLB)",
-            "links": [
-              {
-                "text": "Heritage University",
-                "type": "internal",
-                "page": "Al Turath University College"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician · diplomat · bureaucrat · journalist · documentalist"
-          },
-          "signature": {
-            "text": "توقيع رئيس الوزراء الإنتقالي مصطفى الكاظمي.png"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mustafa Al-Kadhimi",
+  "native_name": "مصطفى الكاظمي",
+  "native_name_lang": "Arabic",
+  "image": "President Trump Welcomes the Prime Minister of Iraq to the White House (50248640381) (cropped).jpg",
+  "caption": "Al-Kadhimi in 2020",
+  "office": "Prime Minister of Iraq",
+  "president": "Barham Salih",
+  "term_start": "7 May 2020",
+  "predecessor": "Adil Abdul-Mahdi",
+  "office1": "Minister of Foreign Affairs",
+  "termlabel1": "Acting",
+  "term_start1": "12 May 2020",
+  "term_end1": "6 June 2020",
+  "primeminister1": "Himself",
+  "predecessor1": "Mohamed Ali Alhakim",
+  "successor1": "Fuad Hussein",
+  "office2": "Director of INIS",
+  "term_start2": "7 June 2016",
+  "term_end2": "9 April 2020",
+  "primeminister2": "Haider al-Abadi Adil Abdul-Mahdi",
+  "predecessor2": "Zuheir Fadel Abbas Ghirbawi",
+  "birth_name": "Mustafa Abdul Latif Mishatat",
+  "birth_date": "1964 (age 58)",
+  "birth_place": "Baghdad, Iraq",
+  "citizenship": "Iraq, United Kingdom",
+  "party": "Independent",
+  "residence": "Republican Palace, Baghdad",
+  "alma_mater": "Heritage University (LLB)",
+  "occupation": "Politician · diplomat · bureaucrat · journalist · documentalist",
+  "signature": "توقيع رئيس الوزراء الإنتقالي مصطفى الكاظمي.png"
 }
