@@ -1,401 +1,53 @@
 {
-  "title": "Adnan Dirjal",
-  "pageID": 23908283,
-  "categories": [
-    "1960 births",
-    "Living people",
-    "Sportspeople from Baghdad",
-    "Iraqi footballers",
-    "Al-Zawraa SC players",
-    "Al-Rasheed players",
-    "Iraqi football managers",
-    "Iraqi expatriate football managers",
-    "Expatriate football managers in Qatar",
-    "Footballers at the 1980 Summer Olympics",
-    "Footballers at the 1984 Summer Olympics",
-    "Footballers at the 1988 Summer Olympics",
-    "Olympic footballers of Iraq",
-    "Asian Games medalists in football",
-    "Footballers at the 1982 Asian Games",
-    "FIFA Century Club",
-    "Asian Games gold medalists for Iraq",
-    "Association football defenders",
-    "Medalists at the 1982 Asian Games",
-    "Government ministers of Iraq",
-    "Iraq international footballers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Adnan Dirjal (عدنان درجال مطر; born 26 January 1960 in Baghdad) is an Iraqi former footballer, national team coach, and as of May 2020 heads the Iraqi Ministry of Youth and Sports.",
-              "links": [
-                {
-                  "text": "Ministry of Youth and Sports",
-                  "type": "internal",
-                  "page": "Ministry of Youth and Sports (Iraq)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Adnan Dirjal"
-                ]
-              }
-            },
-            {
-              "text": "He was one of Iraq's most prominent national team captains, who played as a defender.",
-              "links": [
-                {
-                  "text": "Iraq's most prominent national team",
-                  "type": "internal",
-                  "page": "Iraq national football team"
-                },
-                {
-                  "text": "captains",
-                  "type": "internal",
-                  "page": "Captain (association football)"
-                },
-                {
-                  "text": "defender",
-                  "type": "internal",
-                  "page": "Defender (association football)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 14 September 2021 he won the presidency of the Iraqi Football Association."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Iraqi footballer and coach",
-          "template": "short description"
-        },
-        {
-          "date": "November 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1960",
-          "month": "01",
-          "day": "26",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "header-color": {
-            "text": "lavender"
-          },
-          "position": {
-            "text": "Defender",
-            "links": [
-              {
-                "text": "Defender",
-                "type": "internal",
-                "page": "Defender (association football)"
-              }
-            ]
-          },
-          "youthyears1": {
-            "text": "1976–1977"
-          },
-          "youthclubs1": {
-            "text": "Assyrian Sports Club",
-            "links": [
-              {
-                "text": "Assyrian Sports Club",
-                "type": "internal",
-                "page": "Al-Athori SC"
-              }
-            ]
-          },
-          "years1": {
-            "text": "1977–1980"
-          },
-          "years2": {
-            "text": "1980–1984"
-          },
-          "years3": {
-            "text": "1984–1990"
-          },
-          "clubs1": {
-            "text": "Al-Zawraa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Al-Zawraa"
-              }
-            ]
-          },
-          "clubs2": {
-            "text": "Al-Talaba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Al-Talaba"
-              }
-            ]
-          },
-          "clubs3": {
-            "text": "Al-Rasheed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Al-Rasheed"
-              }
-            ]
-          },
-          "nationalyears1": {
-            "text": "1978–1990"
-          },
-          "nationalteam1": {
-            "text": "Iraq",
-            "links": [
-              {
-                "text": "Iraq",
-                "type": "internal",
-                "page": "Iraq national football team"
-              }
-            ]
-          },
-          "nationalcaps1": {
-            "text": "121",
-            "number": 121
-          },
-          "nationalgoals1": {
-            "text": "8",
-            "number": 8
-          },
-          "manageryears1": {
-            "text": "1991–1992"
-          },
-          "manageryears2": {
-            "text": "1992–1993"
-          },
-          "manageryears3": {
-            "text": "1993–1994"
-          },
-          "manageryears4": {
-            "text": "1995–1998"
-          },
-          "manageryears5": {
-            "text": "1999",
-            "number": 1999
-          },
-          "manageryears6": {
-            "text": "1999",
-            "number": 1999
-          },
-          "manageryears7": {
-            "text": "1999–2000"
-          },
-          "manageryears8": {
-            "text": "2000–2001"
-          },
-          "manageryears9": {
-            "text": "2004",
-            "number": 2004
-          },
-          "manageryears10": {
-            "text": "2004–2005"
-          },
-          "manageryears11": {
-            "text": "2007",
-            "number": 2007
-          },
-          "manageryears12": {
-            "text": "2010–2012"
-          },
-          "manageryears13": {
-            "text": "2013–2014"
-          },
-          "managerclubs1": {
-            "text": "Al-Karkh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Al-Karkh"
-              }
-            ]
-          },
-          "managerclubs2": {
-            "text": "Iraq",
-            "links": [
-              {
-                "text": "Iraq",
-                "type": "internal",
-                "page": "Iraq national football team"
-              }
-            ]
-          },
-          "managerclubs3": {
-            "text": "Al-Quwa Al-Jawiya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Al-Quwa Al-Jawiya"
-              }
-            ]
-          },
-          "managerclubs4": {
-            "text": "Al Wakrah",
-            "links": [
-              {
-                "text": "Al Wakrah",
-                "type": "internal",
-                "page": "Al-Wakrah Sports Club"
-              }
-            ]
-          },
-          "managerclubs5": {
-            "text": "Al Sadd",
-            "links": [
-              {
-                "text": "Al Sadd",
-                "type": "internal",
-                "page": "Al Sadd SC"
-              }
-            ]
-          },
-          "managerclubs6": {
-            "text": "Al Shamal",
-            "links": [
-              {
-                "text": "Al Shamal",
-                "type": "internal",
-                "page": "Al-Shamal Sports Club"
-              }
-            ]
-          },
-          "managerclubs7": {
-            "text": "Al Wakrah",
-            "links": [
-              {
-                "text": "Al Wakrah",
-                "type": "internal",
-                "page": "Al-Wakrah Sports Club"
-              }
-            ]
-          },
-          "managerclubs8": {
-            "text": "Al Arabi",
-            "links": [
-              {
-                "text": "Al Arabi",
-                "type": "internal",
-                "page": "Al-Arabi SC (Qatar)"
-              }
-            ]
-          },
-          "managerclubs9": {
-            "text": "Al Sailiya",
-            "links": [
-              {
-                "text": "Al Sailiya",
-                "type": "internal",
-                "page": "Al-Sailiya SC"
-              }
-            ]
-          },
-          "managerclubs10": {
-            "text": "Al Wakrah",
-            "links": [
-              {
-                "text": "Al Wakrah",
-                "type": "internal",
-                "page": "Al-Wakrah Sports Club"
-              }
-            ]
-          },
-          "managerclubs11": {
-            "text": "Al Wakrah",
-            "links": [
-              {
-                "text": "Al Wakrah",
-                "type": "internal",
-                "page": "Al-Wakrah Sports Club"
-              }
-            ]
-          },
-          "managerclubs12": {
-            "text": "Al Wakrah",
-            "links": [
-              {
-                "text": "Al Wakrah",
-                "type": "internal",
-                "page": "Al-Wakrah Sports Club"
-              }
-            ]
-          },
-          "managerclubs13": {
-            "text": "Al Wakrah",
-            "links": [
-              {
-                "text": "Al Wakrah",
-                "type": "internal",
-                "page": "Al-Wakrah Sports Club"
-              }
-            ]
-          }
-        },
-        {
-          "name": {
-            "text": "Adnan Dirjal"
-          },
-          "image": {
-            "text": "Adnan_Derjal.jpg"
-          },
-          "fullname": {
-            "text": "Adnan Dirjal Mutar Jasim"
-          },
-          "birth_date": {
-            "text": "January 26, 1960"
-          },
-          "birth_place": {
-            "text": "Baghdad, Iraq",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baghdad"
-              },
-              {
-                "type": "internal",
-                "page": "Iraq"
-              }
-            ]
-          },
-          "office": {
-            "text": "President of Iraq Football Association",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Iraq Football Association"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 September 2021"
-          },
-          "height": {
-            "text": "190 cm"
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "header-color": "lavender",
+  "position": "Defender",
+  "youthyears1": "1976–1977",
+  "youthclubs1": "Assyrian Sports Club",
+  "years1": "1977–1980",
+  "years2": "1980–1984",
+  "years3": "1984–1990",
+  "clubs1": "Al-Zawraa",
+  "clubs2": "Al-Talaba",
+  "clubs3": "Al-Rasheed",
+  "nationalyears1": "1978–1990",
+  "nationalteam1": "Iraq",
+  "nationalcaps1": "121",
+  "nationalgoals1": "8",
+  "manageryears1": "1991–1992",
+  "manageryears2": "1992–1993",
+  "manageryears3": "1993–1994",
+  "manageryears4": "1995–1998",
+  "manageryears5": "1999",
+  "manageryears6": "1999",
+  "manageryears7": "1999–2000",
+  "manageryears8": "2000–2001",
+  "manageryears9": "2004",
+  "manageryears10": "2004–2005",
+  "manageryears11": "2007",
+  "manageryears12": "2010–2012",
+  "manageryears13": "2013–2014",
+  "managerclubs1": "Al-Karkh",
+  "managerclubs2": "Iraq",
+  "managerclubs3": "Al-Quwa Al-Jawiya",
+  "managerclubs4": "Al Wakrah",
+  "managerclubs5": "Al Sadd",
+  "managerclubs6": "Al Shamal",
+  "managerclubs7": "Al Wakrah",
+  "managerclubs8": "Al Arabi",
+  "managerclubs9": "Al Sailiya",
+  "managerclubs10": "Al Wakrah",
+  "managerclubs11": "Al Wakrah",
+  "managerclubs12": "Al Wakrah",
+  "managerclubs13": "Al Wakrah"
+}
+{
+  "name": "Adnan Dirjal",
+  "image": "Adnan_Derjal.jpg",
+  "fullname": "Adnan Dirjal Mutar Jasim",
+  "birth_date": "January 26, 1960",
+  "birth_place": "Baghdad, Iraq",
+  "office": "President of Iraq Football Association",
+  "term_start": "14 September 2021",
+  "height": "190 cm"
 }
