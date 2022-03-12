@@ -123,9 +123,6 @@
             },
             "References": {
               "text": ""
-            },
-            "col9": {
-              "text": ""
             }
           },
           {
@@ -205,9 +202,6 @@
             },
             "References": {
               "text": ""
-            },
-            "col9": {
-              "text": ""
             }
           },
           {
@@ -258,9 +252,6 @@
               "text": "6 May 2020"
             },
             "References": {
-              "text": ""
-            },
-            "col9": {
               "text": ""
             }
           },
@@ -360,9 +351,6 @@
               "text": "6 May 2020"
             },
             "References": {
-              "text": ""
-            },
-            "col9": {
               "text": ""
             }
           },
@@ -467,9 +455,6 @@
               "text": ""
             },
             "Party": {
-              "text": ""
-            },
-            "Dates": {
               "text": "none",
               "formatting": {
                 "italic": [
@@ -477,7 +462,7 @@
                 ]
               }
             },
-            "References": {
+            "Dates": {
               "text": "6 June 2020"
             }
           },
@@ -584,15 +569,9 @@
               "text": ""
             },
             "Dates": {
-              "text": ""
-            },
-            "References": {
-              "text": ""
-            },
-            "col9": {
               "text": "6 May 2020"
             },
-            "col10": {
+            "References": {
               "text": ""
             }
           },
@@ -636,15 +615,9 @@
               "text": ""
             },
             "Dates": {
-              "text": ""
-            },
-            "References": {
               "text": "6 May 2020"
             },
-            "col9": {
-              "text": ""
-            },
-            "col10": {
+            "References": {
               "text": ""
             }
           },
@@ -728,15 +701,9 @@
               "text": ""
             },
             "Dates": {
-              "text": ""
-            },
-            "References": {
               "text": "6 May 2020"
             },
-            "col9": {
-              "text": ""
-            },
-            "col10": {
+            "References": {
               "text": ""
             }
           },
@@ -820,15 +787,9 @@
               "text": ""
             },
             "Dates": {
-              "text": ""
-            },
-            "References": {
               "text": "6 May 2020"
             },
-            "col9": {
-              "text": ""
-            },
-            "col10": {
+            "References": {
               "text": ""
             }
           },
@@ -865,15 +826,9 @@
               "text": ""
             },
             "Dates": {
-              "text": ""
-            },
-            "References": {
               "text": "6 May 2020"
             },
-            "col9": {
-              "text": ""
-            },
-            "col10": {
+            "References": {
               "text": ""
             }
           },
@@ -907,9 +862,6 @@
               "text": "6 June 2020"
             },
             "References": {
-              "text": ""
-            },
-            "col9": {
               "text": ""
             }
           },
@@ -951,9 +903,6 @@
             },
             "References": {
               "text": ""
-            },
-            "col9": {
-              "text": ""
             }
           },
           {
@@ -971,7 +920,7 @@
               ]
             },
             "Website": {
-              "text": "|www.mot.gov.iq",
+              "text": "www.mot.gov.iq",
               "links": [
                 {
                   "text": "www.mot.gov.iq",
@@ -1032,15 +981,9 @@
               "text": ""
             },
             "Dates": {
-              "text": ""
-            },
-            "References": {
               "text": "6 May 2020"
             },
-            "col9": {
-              "text": ""
-            },
-            "col10": {
+            "References": {
               "text": ""
             }
           },
@@ -1084,15 +1027,9 @@
               "text": ""
             },
             "Dates": {
-              "text": ""
-            },
-            "References": {
               "text": "6 May 2020"
             },
-            "col9": {
-              "text": ""
-            },
-            "col10": {
+            "References": {
               "text": ""
             }
           },
@@ -1136,15 +1073,9 @@
               "text": ""
             },
             "Dates": {
-              "text": ""
-            },
-            "References": {
               "text": "6 May 2020"
             },
-            "col9": {
-              "text": ""
-            },
-            "col10": {
+            "References": {
               "text": ""
             }
           }
