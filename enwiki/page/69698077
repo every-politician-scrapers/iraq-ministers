@@ -1,15 +1,19 @@
 {
   "title": "Chief of the Iraqi General Staff",
   "pageID": 69698077,
-  "categories": [
-    "Iraq",
-    "Military"
-  ],
+  "categories": [],
   "sections": [
     {
       "title": "",
       "depth": 0,
       "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "or the other way around"
+            }
+          ]
+        },
         {
           "sentences": [
             {
@@ -69,6 +73,15 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Chief of Staff (Iraq)"
+          ],
+          "date": "May 2022",
+          "template": "merge"
         }
       ],
       "infoboxes": [
@@ -192,6 +205,10 @@
       "templates": [
         {
           "template": "iraqi security forces"
+        },
+        {
+          "date": "May 2022",
+          "template": "uncat"
         }
       ]
     }

@@ -115,11 +115,15 @@
             ]
           },
           "currency": {
-            "text": "Iraqi Dinar",
+            "text": "Iraqi Dinar Kuwaiti Dinar",
             "links": [
               {
                 "type": "internal",
                 "page": "Iraqi Dinar"
+              },
+              {
+                "type": "internal",
+                "page": "Kuwaiti Dinar"
               }
             ]
           },
