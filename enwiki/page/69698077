@@ -10,13 +10,6 @@
         {
           "sentences": [
             {
-              "text": "or the other way around"
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
               "text": "The Chief of the General Staff of the Armed Forces of Iraq (رئاسة اركان الجيش العراقي) is the chief of the General Staff of the Armed Forces of Iraq.",
               "links": [
                 {
@@ -73,15 +66,6 @@
               ]
             }
           ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Chief of Staff (Iraq)"
-          ],
-          "date": "May 2022",
-          "template": "merge"
         }
       ],
       "infoboxes": [
