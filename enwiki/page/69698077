@@ -1,7 +1,9 @@
 {
   "title": "Chief of the Iraqi General Staff",
   "pageID": 69698077,
-  "categories": [],
+  "categories": [
+    "Iraqi Army officers"
+  ],
   "sections": [
     {
       "title": "",
@@ -191,8 +193,7 @@
           "template": "iraqi security forces"
         },
         {
-          "date": "May 2022",
-          "template": "uncat"
+          "template": "chief of military by country"
         }
       ]
     }
