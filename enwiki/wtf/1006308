@@ -1,0 +1,1343 @@
+{
+  "title": "Barham Salih",
+  "pageID": 1006308,
+  "categories": [
+    "1960 births",
+    "People from Sulaymaniyah",
+    "Iraqi Kurdish people",
+    "Living people",
+    "Alumni of Cardiff University",
+    "Members of the Council of Representatives of Iraq",
+    "Government ministers of Iraq",
+    "Kurdish Muslims",
+    "Patriotic Union of Kurdistan politicians",
+    "Presidents of Iraq",
+    "Kurdish politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Barham Salih (بەرھەم ساڵح; برهم صالح; born 12 September 1960) is an Iraqi politician of Kurdish origin who is serving as the eighth president of Iraq.",
+              "links": [
+                {
+                  "text": "Iraqi",
+                  "type": "internal",
+                  "page": "Iraqis"
+                },
+                {
+                  "text": "Kurdish",
+                  "type": "internal",
+                  "page": "Kurds"
+                },
+                {
+                  "text": "eighth",
+                  "type": "internal",
+                  "page": "List of presidents of Iraq"
+                },
+                {
+                  "text": "president of Iraq",
+                  "type": "internal",
+                  "page": "president of Iraq"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Barham Salih"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the former prime minister of the Kurdistan Region and a former deputy prime minister of the Iraqi federal government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kurdistan Region"
+                },
+                {
+                  "text": "Iraqi federal government",
+                  "type": "internal",
+                  "page": "Federal government of Iraq"
+                }
+              ]
+            },
+            {
+              "text": "He was elected and assumed office as president of Iraq on 2 October 2018."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "President of Iraq since 2018",
+          "template": "short description"
+        },
+        {
+          "date": "July 2021",
+          "template": "update"
+        },
+        {
+          "date": "October 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1960",
+          "month": "09",
+          "day": "12",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Barham Salih"
+          },
+          "image": {
+            "text": "Barham Salih (cropped).jpg"
+          },
+          "caption": {
+            "text": "Salih in 2019"
+          },
+          "order": {
+            "text": "8th"
+          },
+          "office": {
+            "text": "President of Iraq"
+          },
+          "primeminister": {
+            "text": "Mustafa Al-Kadhimi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mustafa Al-Kadhimi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 October 2018"
+          },
+          "predecessor": {
+            "text": "Fuad Masum",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fuad Masum"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Prime Minister of Kurdistan Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Kurdistan Region"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 October 2009"
+          },
+          "president1": {
+            "text": "Masoud Barzani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masoud Barzani"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Nechirvan Barzani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nechirvan Barzani"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Nechirvan Barzani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nechirvan Barzani"
+              }
+            ]
+          },
+          "term_end1": {
+            "text": "5 April 2012"
+          },
+          "term_start2": {
+            "text": "21 January 2001"
+          },
+          "term_end2": {
+            "text": "15 July 2004"
+          },
+          "president2": {
+            "text": "Jalal Talabani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jalal Talabani"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Kosrat Rasul Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kosrat Rasul Ali"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Omar Fattah Hussein (acting)",
+            "formatting": {
+              "italic": [
+                "(acting)"
+              ]
+            }
+          },
+          "office3": {
+            "text": "Deputy Prime Minister of Iraq",
+            "links": [
+              {
+                "text": "Deputy Prime Minister of Iraq",
+                "type": "internal",
+                "page": "Deputy Prime Minister"
+              }
+            ]
+          },
+          "alongside3": {
+            "text": "Salam al-Zaubai, Rafi al-Issawi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salam al-Zaubai"
+              },
+              {
+                "type": "internal",
+                "page": "Rafi al-Issawi"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "20 May 2006"
+          },
+          "term_end3": {
+            "text": "20 August 2009"
+          },
+          "president3": {
+            "text": "Jalal Talabani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jalal Talabani"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Nouri al-Maliki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nouri al-Maliki"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Rowsch Shaways",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rowsch Shaways"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Rowsch Shaways",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rowsch Shaways"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "28 June 2004"
+          },
+          "term_end4": {
+            "text": "3 May 2005"
+          },
+          "primeminister4": {
+            "text": "Iyad Allawi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iyad Allawi"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Coalition Provisional Authority",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Coalition Provisional Authority"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Rowsch Shaways",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rowsch Shaways"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Chair of Board of Trustees at The American University of Iraq, Sulaimani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The American University of Iraq, Sulaimani"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end5": {
+            "text": "2017",
+            "number": 2017
+          },
+          "predecessor5": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "successor5": {
+            "text": "Jill Derby",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jill Derby"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Barham Ahmed Salih"
+          },
+          "birth_date": {
+            "text": "September 12, 1960"
+          },
+          "birth_place": {
+            "text": "Slemani, Kurdistan, Iraq",
+            "links": [
+              {
+                "text": "Slemani",
+                "type": "internal",
+                "page": "Sulaymaniyah"
+              },
+              {
+                "text": "Kurdistan",
+                "type": "internal",
+                "page": "Kurdistan Region"
+              },
+              {
+                "text": "Iraq",
+                "type": "internal",
+                "page": "Iraqi Republic (1958–68)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Kurdish"
+          },
+          "spouse": {
+            "text": "Sarbagh Salih"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "party": {
+            "text": "Patriotic Union of Kurdistan (1976–2017, 2018–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patriotic Union of Kurdistan"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Coalition for Democracy and Justice (2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Coalition for Democracy and Justice"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Radwaniyah Palace, Baghdad, Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Radwaniyah Palace"
+              },
+              {
+                "type": "internal",
+                "page": "Baghdad"
+              }
+            ]
+          },
+          "website": {
+            "text": "www.barhamsalih.net",
+            "links": [
+              {
+                "text": "www.barhamsalih.net",
+                "type": "external",
+                "site": "https://web.archive.org/web/20090701001032/http://barhamsalih.net/index.html"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Cardiff University\nUniversity of Liverpool",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cardiff University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Liverpool"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Iraq · United Kingdom"
+          }
+        }
+      ],
+      "references": [
+        {
+          "publisher": "BBC",
+          "date": "20 May 2006",
+          "url": "http://news.bbc.co.uk/2/hi/middle_east/5000750.stm",
+          "title": "Who's who in Iraq's new cabinet",
+          "access-date": "23 December 2016",
+          "archive-date": "2 October 2018",
+          "archive-url": "https://web.archive.org/web/20181002215212/http://news.bbc.co.uk/2/hi/middle_east/5000750.stm",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Katzman",
+          "first": "Kenneth",
+          "year": "2009",
+          "title": "Iraq: Post-Saddam Governance and Security",
+          "publisher": "Diane Publishing Co.",
+          "page": "55",
+          "isbn": "978-1-4379-1944-8",
+          "url": "https://books.google.com/books?id=NtJ163gwKHIC&pg=PA55",
+          "access-date": "8 November 2020",
+          "archive-date": "27 May 2021",
+          "archive-url": "https://web.archive.org/web/20210527222728/https://books.google.com/books?id=NtJ163gwKHIC&pg=PA55",
+          "url-status": "live",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "url": "https://books.google.com/books?id=pqanFyF6nI0C&pg=PA331",
+          "title": "The CIA World Factbook 2010, Book 2010",
+          "publisher": "CIA",
+          "year": "2010",
+          "page": "331",
+          "isbn": "9781602397279",
+          "access-date": "8 November 2020",
+          "archive-date": "27 May 2021",
+          "archive-url": "https://web.archive.org/web/20210527222733/https://books.google.com/books?id=pqanFyF6nI0C&pg=PA331",
+          "url-status": "live",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Dabbagh: Iraqi PM approves resignation of Barham Salih",
+          "publisher": "Patriotic Union of Kurdistan",
+          "date": "10 April 2009",
+          "url": "http://pukmedia.com/english/index.php?option=com_content&task=view&id=12883&Itemid=53",
+          "access-date": "20 August 2009",
+          "archive-url": "https://web.archive.org/web/20171203013844/http://pukmedia.com/english/index.php?option=com_content&task=view&id=12883&Itemid=53",
+          "archive-date": "3 December 2017",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thenational.ae/world/mena/iraq-elects-kurdish-barham-salih-as-president-1.776522",
+          "title": "Iraq elects Kurdish Barham Salih as president",
+          "newspaper": "The National",
+          "date": "2 October 2018",
+          "access-date": "2 October 2018",
+          "archive-date": "7 June 2019",
+          "archive-url": "https://web.archive.org/web/20190607065741/https://www.thenational.ae/world/mena/iraq-elects-kurdish-barham-salih-as-president-1.776522",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Salih was born in 1960 in Sulaymaniyah.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sulaymaniyah"
+                }
+              ]
+            },
+            {
+              "text": "He was arrested in 1979 by the Ba'athist regime twice on charges of involvement in the Kurdish national movement by taking some photos of protesters in Sulaimaniya city and spent 43 days in detention in a Special Investigation Commission prison in Kirkuk where he was tortured.",
+              "links": [
+                {
+                  "text": "Ba'athist regime",
+                  "type": "internal",
+                  "page": "Ba'athist Iraq"
+                },
+                {
+                  "text": "tortured",
+                  "type": "internal",
+                  "page": "torture"
+                }
+              ]
+            },
+            {
+              "text": "Once released, he finished high school and left Iraq for the United Kingdom to flee continued persecution."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Barham Salih: Biography and Profile",
+          "year": "2009",
+          "url": "http://www.barhamsalih.net/pages/16",
+          "archive-url": "https://web.archive.org/web/20091120060742/http://www.barhamsalih.net/pages/16",
+          "archive-date": "20 November 2009",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Salih is married to Sarbagh Salih, the head and founding member of the Kurdish Botanical Foundation and a women's rights activist."
+            },
+            {
+              "text": "The couple have two children."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Dr. Barham Salih, Deputy prime minister, Republic of Iraq",
+          "publisher": "Brookings Institution",
+          "date": "13 September 2006",
+          "url": "http://www.brookings.edu/comm/events/20060913Salih_bio.pdf",
+          "archive-url": "https://web.archive.org/web/20071103061419/http://www3.brookings.edu/comm/events/20060913Salih_bio.pdf",
+          "archive-date": "3 November 2007",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "script-title": "ar:من هو الرئيس العراقي الجديد",
+          "trans-title": "Who is the new Iraqi president?",
+          "newspaper": "Al Sumaria TV",
+          "language": "ar",
+          "url": "https://www.alsumaria.tv/mobile/news/248956/iraq-news",
+          "archive-url": "https://web.archive.org/web/20181004010805/https://www.alsumaria.tv/mobile/news/248956/iraq-news",
+          "archive-date": "4 October 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0
+    },
+    {
+      "title": "Deputy Secretary General of Patriotic Union of Kurdistan",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Barham Salih joined the Patriotic Union of Kurdistan (PUK) in late 1976 where he became a member of the PUK department of Europe, and was in charge of PUK foreign relations in London.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Patriotic Union of Kurdistan"
+                }
+              ]
+            },
+            {
+              "text": "In addition to the political struggle, he finished his university studies and received a Bachelors degree in Civil Engineering and Construction from the Cardiff University in 1983.",
+              "links": [
+                {
+                  "text": "Bachelors",
+                  "type": "internal",
+                  "page": "Bachelor's degree"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cardiff University"
+                }
+              ]
+            },
+            {
+              "text": "He continued to study and obtained a Doctorate degree in Statistics and Computer Applications in Engineering from the University of Liverpool in 1987.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Doctorate degree"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Liverpool"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected a member of the PUK leadership at the first party conference when Iraqi Kurdistan was liberated from the Ba'ath Party following the Persian Gulf War.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iraqi Kurdistan"
+                },
+                {
+                  "text": "Ba'ath Party",
+                  "type": "internal",
+                  "page": "Arab Socialist Ba'ath Party – Iraq Region"
+                },
+                {
+                  "text": "Persian Gulf War",
+                  "type": "internal",
+                  "page": "Gulf War"
+                }
+              ]
+            },
+            {
+              "text": "He was assigned the task of heading the PUK Office in the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the fall of the Ba'athist regime in 2003, he became Deputy Prime Minister in the Interim Iraqi Government in mid-2004, Minister of Planning in the Transitional Government in 2005, and Deputy Prime Minister in the elected Iraqi Government (Nouri al-Maliki's Cabinet) in charge of the economic portfolio and Head of the Economic Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Interim Iraqi Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nouri al-Maliki"
+                }
+              ]
+            },
+            {
+              "text": "Representing the Iraqi Government, he launched the International Compact with Iraq – an initiative of mutual commitment between Iraq and the international community to help Iraq in meeting its obligations of \"building a prosperous, democratic and federal country, in peace with itself and with the region and the world\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Salih appeared on The Colbert Report on 10 June 2009, broadcast from Baghdad, and was interviewed by the host.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Colbert Report"
+                },
+                {
+                  "type": "internal",
+                  "page": "Baghdad"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Colbert Report"
+                ]
+              }
+            },
+            {
+              "text": "He praised the U.S. military for sending troops into Iraq, and acknowledged that many Kurds desire independence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prime Minister of the Kurdistan Region Government",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Barham Salih spearheaded the Kurdistani List in the 2009 Iraqi Kurdistan legislative election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kurdistani List"
+                },
+                {
+                  "text": "2009 Iraqi Kurdistan legislative election",
+                  "type": "internal",
+                  "page": "2009 Iraqi Kurdistan legislative election"
+                }
+              ]
+            },
+            {
+              "text": "The list won 59 of 111 seats."
+            },
+            {
+              "text": "He succeeded Nechervan Idris Barzani as the Prime Minister of the Kurdistan Regional Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nechervan Idris Barzani"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kurdistan Regional Government"
+                }
+              ]
+            },
+            {
+              "text": "His term was marked by turbulence with the rise of an opposition (Movement for Change) to challenge the government while his own party was scrambling to stay together after losing the stronghold city of Sulaymaniyah.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Movement for Change"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sulaymaniyah"
+                }
+              ]
+            },
+            {
+              "text": "He survived the first motion of no confidence in Iraqi Kurdistan following the 2011 Kurdish protests in Iraq.",
+              "links": [
+                {
+                  "text": "motion of no confidence",
+                  "type": "internal",
+                  "page": "motion of no confidence"
+                },
+                {
+                  "text": "2011 Kurdish protests in Iraq",
+                  "type": "internal",
+                  "page": "2011 Kurdish protests in Iraq"
+                }
+              ]
+            },
+            {
+              "text": "He signed the first major oil contract with Exxon Mobil after drafting and amending a new oil law.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Exxon Mobil"
+                }
+              ]
+            },
+            {
+              "text": "He relinquished the post of Prime Minister to Nechervan Idris Barzani on 5 April 2012 as part of a political agreement between the ruling KDP–PUK coalition."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.reuters.com/article/exxon-kurdistan-idUSL5E7MD04G20111113",
+          "title": "Iraqi Kurdistan confirms Exxon oil deal-minister",
+          "date": "13 November 2011",
+          "publisher": "Reuters",
+          "access-date": "18 February 2012",
+          "archive-date": "30 January 2012",
+          "archive-url": "https://web.archive.org/web/20120130205842/http://www.reuters.com/article/2011/11/13/exxon-kurdistan-idUSL5E7MD04G20111113",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bloomberg.com/news/2012-03-05/nechirvan-barzani-to-take-over-as-iraq-kurd-premier-on-march-7.html",
+          "publisher": "Bloomberg",
+          "first": "Nayla",
+          "last": "Razzouk",
+          "title": "Nechirvan Barzani to Take Over as Iraq Kurd Premier on March 7",
+          "date": "5 March 2012",
+          "access-date": "5 March 2017",
+          "archive-date": "20 October 2014",
+          "archive-url": "https://web.archive.org/web/20141020003836/http://www.bloomberg.com/news/2012-03-05/nechirvan-barzani-to-take-over-as-iraq-kurd-premier-on-march-7.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Move to opposition",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In September 2017, Salih announced that he was leaving the PUK and forming a new opposition party, the Coalition for Democracy and Justice, to compete in the forthcoming Iraqi Kurdistan elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Coalition for Democracy and Justice"
+                },
+                {
+                  "text": "Iraqi Kurdistan elections",
+                  "type": "internal",
+                  "page": "2018 Kurdistan Region parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "Following the death of PUK leader Jalal Talabani and the Kurdish opposition leader Nawshirwan Mustafa, the alliance was seen to have the potential to change the Kurdish political landscape.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jalal Talabani"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nawshirwan Mustafa"
+                }
+              ]
+            },
+            {
+              "text": "He said he hoped to gather all the other opposition parties, including Gorran and Komal, to challenge the governing KDP–PUK alliance.",
+              "links": [
+                {
+                  "text": "Gorran",
+                  "type": "internal",
+                  "page": "Gorran Movement"
+                },
+                {
+                  "text": "Komal",
+                  "type": "internal",
+                  "page": "Kurdistan Islamic Group"
+                },
+                {
+                  "text": "KDP",
+                  "type": "internal",
+                  "page": "Kurdistan Democratic Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.niqash.org/en/articles/politics/5750/Kurdish-Political-Heavyweight-Announces-Plan-To-Shake-Up-Local-Voters.htm",
+          "title": "Kurdish Political Heavyweight Announces Plan To Shake Up Local Voters",
+          "last": "Rasheed",
+          "first": "Honar Hama",
+          "work": "Niqash",
+          "access-date": "6 January 2018",
+          "language": "en",
+          "archive-url": "https://web.archive.org/web/20180424183600/http://www.niqash.org/en/articles/politics/5750/Kurdish-Political-Heavyweight-Announces-Plan-To-Shake-Up-Local-Voters.htm",
+          "archive-date": "24 April 2018",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "President of Iraq",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 2 October 2018, Barham Salih was elected as the eighth president of Iraq."
+            },
+            {
+              "text": "He received 219 votes and defeated Fuad Hussein who secured 22 votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fuad Hussein"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Salih condemned the 2019 Turkish offensive into north-eastern Syria, stating that it \"will cause untold humanitarian suffering, empower terrorist groups. The world must unite to avert a catastrophe, promote political resolution to the rights of all Syrians, including Kurds, to peace, dignity and security\".",
+              "links": [
+                {
+                  "text": "2019 Turkish offensive into north-eastern Syria",
+                  "type": "internal",
+                  "page": "2019 Turkish offensive into north-eastern Syria"
+                }
+              ]
+            },
+            {
+              "text": "In March 2019, Salih submitted the groundbreaking “Yazidi Female Survivors Law” to Parliament for review."
+            },
+            {
+              "text": "The ground-breaking bill set forth a number of reparation measures for female Yazidi survivors of captivity."
+            },
+            {
+              "text": "It was seen by the Yazidi leaders as an important step toward a secure future for the survivors, and so they could move on and rebuild their homes, which were destroyed by IS fighting."
+            },
+            {
+              "text": "On March 1, 2021, Parliament passed the Yazidi [Female] Survivors Bill into law, and the law was welcomed by Nadia Murad as \"an important first step in acknowledging the gender-based trauma of sexual violence and need for tangible redress.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nadia Murad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 24 September 2019, President Salih had his first bilateral meeting with U.S. President Donald Trump.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 26 December 2019, Salih submitted a letter of resignation after refusing to appoint Basra Governor Asaad Al Eidani as Prime Minister following the resignation of Adil Abdul-Mahdi, amid ongoing protests across the country.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Basra"
+                },
+                {
+                  "type": "internal",
+                  "page": "Asaad Al Eidani"
+                },
+                {
+                  "type": "internal",
+                  "page": "Adil Abdul-Mahdi"
+                },
+                {
+                  "text": "ongoing protests",
+                  "type": "internal",
+                  "page": "2019 Iraqi protests"
+                }
+              ]
+            },
+            {
+              "text": "Salih stated that Al Eidani would not be approved by the demonstrators."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Secretary_Pompeo_Meets_With_Iraq_President_Salih_(48778639827).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Pompeo_Meets_With_Iraq_President_Salih_(48778639827).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Pompeo_Meets_With_Iraq_President_Salih_(48778639827).jpg",
+          "caption": "Salih meets with U.S. Secretary of State Michael R. Pompeo on the margins of the 74th Session of the United Nations General Assembly in New York City on September 22, 2019.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bbc.com/news/world-middle-east-45722528",
+          "title": "New Iraq President Barham Saleh names Adel Abdul Mahdi as PM",
+          "publisher": "BBC",
+          "access-date": "4 October 2018",
+          "archive-date": "9 September 2019",
+          "archive-url": "https://web.archive.org/web/20190909085137/https://www.bbc.com/news/world-middle-east-45722528",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theaustralian.com.au/news/world/moderate-saleh-wins-iraq-presidency/news-story/3838badbeb03e89df998bebe6fc07225",
+          "title": "Moderate Saleh wins Iraq presidency",
+          "publisher": "The Australian",
+          "access-date": "4 October 2018",
+          "archive-date": "27 May 2021",
+          "archive-url": "https://web.archive.org/web/20210527222745/https://login.newscorpaustralia.com/authorize?client_id=HftEQUnDM7g7u3R0AnMT4wVF5k27TQMU&response_type=token%20id_token&scope=openid%20profile&audience=newscorpaustralia&redirect_uri=https%3A%2F%2Fwww.theaustralian.com.au%2Fremote%2Fidentity%2Fauth%2Flatest%2Flogin%2Fcallback.html&state=3A_b__HtlGwAC-6mSN6Ym~tXwEcS5vxy&nonce=qAEwKp72gXy-rnZw84q1_ZbhMrPTAnR~&response_mode=web_message&prompt=none&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xNi4wIn0%3D",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "World reacts to Turkey's military operation in northeast Syria",
+          "url": "https://www.aljazeera.com/news/2019/10/world-reacts-turkey-military-operation-northeast-syria-191009181335266.html",
+          "work": "Al-Jazeera",
+          "date": "10 October 2019",
+          "access-date": "16 October 2019",
+          "archive-date": "17 September 2020",
+          "archive-url": "https://web.archive.org/web/20200917220921/https://www.aljazeera.com/news/2019/10/world-reacts-turkey-military-operation-northeast-syria-191009181335266.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "\"Yazidi Female Survivors Law\" in Iraq is groundbreaking but not enough",
+          "url": "https://www.openglobalrights.org/yazidi-female-survivors-law-in-iraq-is-groundbreaking-but-not-enough/",
+          "access-date": "2021-01-13",
+          "website": "OpenGlobalRights",
+          "language": "en",
+          "archive-date": "14 January 2021",
+          "archive-url": "https://web.archive.org/web/20210114081237/https://www.openglobalrights.org/yazidi-female-survivors-law-in-iraq-is-groundbreaking-but-not-enough/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-04-26",
+          "title": "Iraq's Reparation Bill for Yazidi Female Survivors: More Progress Needed",
+          "url": "https://blogs.lse.ac.uk/mec/2019/04/26/iraqs-reparation-bill-for-yazidi-female-survivors-more-progress-needed/",
+          "access-date": "2021-01-13",
+          "website": "Middle East Centre",
+          "archive-date": "21 January 2021",
+          "archive-url": "https://web.archive.org/web/20210121200624/https://blogs.lse.ac.uk/mec/2019/04/26/iraqs-reparation-bill-for-yazidi-female-survivors-more-progress-needed/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Yazidis Push for Reparation Bill in Iraqi Parliament {{!}} Voice of America - English",
+          "url": "https://www.voanews.com/extremism-watch/yazidis-push-reparation-bill-iraqi-parliament",
+          "access-date": "2021-01-13",
+          "website": "www.voanews.com",
+          "language": "en",
+          "archive-date": "15 January 2021",
+          "archive-url": "https://web.archive.org/web/20210115005809/https://www.voanews.com/extremism-watch/yazidis-push-reparation-bill-iraqi-parliament",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.forbes.com/sites/ewelinaochab/2021/03/04/iraq-adopts-new-law-to-assist-survivors-of-the-daesh-genocide/",
+          "title": "Iraq Adopts New Law To Assist Survivors Of The Daesh Genocide",
+          "last": "Ochab",
+          "first": "Dr. Ewelina U.",
+          "date": "2021-03-04",
+          "website": "Forbes",
+          "access-date": "2021-04-26",
+          "archive-date": "26 April 2021",
+          "archive-url": "https://web.archive.org/web/20210426150654/https://www.forbes.com/sites/ewelinaochab/2021/03/04/iraq-adopts-new-law-to-assist-survivors-of-the-daesh-genocide/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-president-salih-iraq-bilateral-meeting-new-york-ny-2/",
+          "title": "www.whitehouse.gov",
+          "access-date": "2 March 2021",
+          "archive-date": "20 January 2021",
+          "archive-url": "https://web.archive.org/web/20210120201746/https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-president-salih-iraq-bilateral-meeting-new-york-ny-2/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://time.com/5755588/iraq-president-resignation/",
+          "title": "Iraqi President Barham Saleh Submits Resignation to Parliament Amid Deadly Protests: Report",
+          "magazine": "Time",
+          "language": "en",
+          "access-date": "2019-12-26",
+          "archive-date": "26 December 2019",
+          "archive-url": "https://web.archive.org/web/20191226190218/https://time.com/5755588/iraq-president-resignation/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "magazine"
+        },
+        {
+          "url": "https://uk.reuters.com/article/uk-iraq-protests-idUKKBN1YU0Q3",
+          "title": "Iraqi president threatens to quit in defiance of Iran's allies in parliament",
+          "date": "2019-12-26",
+          "work": "Reuters",
+          "access-date": "2019-12-26",
+          "language": "en",
+          "archive-date": "30 November 2020",
+          "archive-url": "https://web.archive.org/web/20201130141803/https://uk.reuters.com/article/uk-iraq-protests-idUKKBN1YU0Q3",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Assassination attempt",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On April 2, 2002 Barham Salih was exposed to an assassination attempt by Ansar al-Islam group, Salih survived the assassination attempt.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ansar al-Islam"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Documentation",
+          "first": "Austrian Centre for Country of Origin and Asylum Research and",
+          "date": "2006-03-08",
+          "title": "a-4812 (ACC-IRQ-4812)",
+          "url": "https://www.ecoi.net/en/document/1037043.html",
+          "access-date": "2022-05-12",
+          "website": "www.ecoi.net",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2002-04-03",
+          "title": "Iraqi Kurdish leader evades assassins",
+          "language": "en-GB",
+          "url": "http://news.bbc.co.uk/2/hi/middle_east/1909073.stm",
+          "access-date": "2022-05-12",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Criticism",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 19 September 2018, the announcement that Barham Salih will be the PUK's candidate for the post of Iraqi president was greeted with anger by many on social media while others expressed hope that his international reputation and experience would bring a steady hand to tumultuous Baghdad."
+            },
+            {
+              "text": "Some took to the social media platform to call Salih out for perceived opportunism, noting he had just recently been campaigning against PUK and KDP corruption."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "By Rudaw",
+          "title": "Twittersphere reacts with anger, hope, humour to Barham Salih news",
+          "url": "http://www.rudaw.net/english/kurdistan/190920185",
+          "website": "Rudaw",
+          "access-date": "6 October 2018",
+          "archive-date": "6 October 2018",
+          "archive-url": "https://web.archive.org/web/20181006114449/http://www.rudaw.net/english/kurdistan/190920185",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author1": "John J. Catherine",
+          "title": "Barham Salih holds talks to rejoin PUK before Kurdistan election",
+          "url": "http://www.kurdistan24.net/en/news/0483306e-e651-4a0a-9385-4e1a034c3c71",
+          "website": "Kurdistan24",
+          "language": "en",
+          "access-date": "6 October 2018",
+          "archive-date": "6 October 2018",
+          "archive-url": "https://web.archive.org/web/20181006114524/http://www.kurdistan24.net/en/news/0483306e-e651-4a0a-9385-4e1a034c3c71",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Corporation",
+          "first1": "Nalia",
+          "title": "CDJ to continue political, civil work after departure of Barham Salih",
+          "url": "http://www.nrttv.com/En/News.aspx?id=5292&MapID=1",
+          "website": "www.nrttv.com",
+          "access-date": "6 October 2018",
+          "archive-date": "6 October 2018",
+          "archive-url": "https://web.archive.org/web/20181006075248/http://www.nrttv.com/En/News.aspx?id=5292&MapID=1",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "wikiquote"
+        },
+        {
+          "template": "commons"
+        },
+        {
+          "list": [
+            "26625"
+          ],
+          "template": "c-span"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "title": "Prime Minister of PUK-controlled Kurdistan",
+          "before": "Kosrat Rasul Ali",
+          "years": "January 2001 &ndash; July 2004",
+          "after": "Omer Fattah Hussain (acting)",
+          "template": "succession box"
+        },
+        {
+          "title": "Deputy Prime Minister for National Security",
+          "before": "none",
+          "years": "June 2004 &ndash; May 2005",
+          "after": "Ahmed Chalabi Ruz Nuri Shawis Abid Mutlak al-Jubouri",
+          "template": "succession box"
+        },
+        {
+          "title": "Minister of Planning and Development Cooperation",
+          "before": "Mahdi al-Hafez",
+          "years": "May 2005 &ndash; May 2006",
+          "after": "Ali Baban",
+          "template": "succession box"
+        },
+        {
+          "title": "Deputy Prime Minister for National Security",
+          "before": "Ahmed Chalabi Ruz Nuri Shawis Abid Mutlak al-Jubouri",
+          "years": "May 2006 &ndash; August 2009",
+          "after": "Rafi al-Issawi",
+          "template": "succession box"
+        },
+        {
+          "title": "Prime Minister of Iraqi Kurdistan",
+          "before": "Nechervan Idris Barzani",
+          "years": "August 2009&ndash; January 2012",
+          "after": "Nechervan Idris Barzani",
+          "template": "succession box"
+        },
+        {
+          "title": "President of Iraq",
+          "before": "Fuad Masum",
+          "years": "2018–present",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "prime ministers of kurdistan region"
+        },
+        {
+          "template": "presidents of iraq"
+        },
+        {
+          "template": "heads of state of republics"
+        },
+        {
+          "template": "current opec leaders"
+        },
+        {
+          "template": "arab country leaders"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Dr. Barham Salih's official website",
+            "links": [
+              {
+                "text": "Dr. Barham Salih's official website",
+                "type": "external",
+                "site": "http://barhamsalih.net/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

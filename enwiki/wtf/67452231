@@ -1,0 +1,239 @@
+{
+  "title": "Juma Inad",
+  "pageID": 67452231,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Defence ministers of Iraq",
+    "Iraqi generals"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juma Inad (born 1956) is serving as the Minister of Defense of Iraq under al-Kadhimi's government since 2020.",
+              "links": [
+                {
+                  "text": "Minister of Defense of Iraq",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Iraq)"
+                },
+                {
+                  "text": "al-Kadhimi",
+                  "type": "internal",
+                  "page": "Mustafa al-Kadhimi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juma Inad"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "37th Iraqi Minister of Defense",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "5",
+            "date": "06",
+            "df": "y",
+            "template": "end date",
+            "text": "May 6, 2020"
+          }
+        },
+        {
+          "birth_year": "1956",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Juma Inad"
+          },
+          "image": {
+            "text": "Juma Inad222.jpg"
+          },
+          "office": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Iraq)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "May 6, 2020"
+          },
+          "primeminister": {
+            "text": "Mustafa Al-Kadhimi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mustafa Al-Kadhimi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Najah al-Shammari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najah al-Shammari"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1956 (age 66)"
+          },
+          "birth_place": {
+            "text": "Tikrit, Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tikrit"
+              },
+              {
+                "type": "internal",
+                "page": "Iraq"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iraq"
+              }
+            ]
+          },
+          "education": {
+            "text": "Iraqi Military Academy",
+            "links": [
+              {
+                "text": "Iraqi Military Academy",
+                "type": "internal",
+                "page": "Iraqi Military Academy Rustamiyah"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Military officer",
+            "links": [
+              {
+                "text": "Military officer",
+                "type": "internal",
+                "page": "Military rank"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Iraq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iraq"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Iraqi Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iraqi Army"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1996-"
+          },
+          "rank": {
+            "text": "Major general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Major general"
+              }
+            ]
+          },
+          "unit": {
+            "text": "Iraqi Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iraqi Army"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Iraq War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iraq War"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.al-monitor.com/originals/2020/05/iraq-new-cabinet-mustafa-kadhimi-economy-security-covid19.html",
+          "title": "Meet Iraq's new Cabinet",
+          "website": "Al Monitor: The Pulse of the Middle East",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Armenian PM, Iraqi Defense Minister discuss military-technical cooperation",
+          "url": "https://armenpress.am/eng/news/1047158.html",
+          "access-date": "2021-04-20",
+          "website": "armenpress.am",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "ref-list"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Najah al-Shammari",
+          "title": "Defence Minister of Iraq",
+          "years": "2020&ndash;",
+          "template": "succession box"
+        },
+        {
+          "template": "iraq-politician-stub"
+        }
+      ]
+    }
+  ]
+}

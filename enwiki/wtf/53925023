@@ -1,0 +1,151 @@
+{
+  "title": "Othman al-Ghanmi",
+  "pageID": 53925023,
+  "categories": [
+    "Iraqi generals",
+    "Living people",
+    "People of the War in Iraq (2013–2017)",
+    "1958 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Othman al-Ghanmi (born 1958) is the Interior Minister of Iraq since May 2020.",
+              "links": [
+                {
+                  "text": "Interior Minister",
+                  "type": "internal",
+                  "page": "Ministry of Interior (Iraq)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Othman al-Ghanmi"
+                ]
+              }
+            },
+            {
+              "text": "He is a former officer in the Iraqi Army and its chief of staff from 2017 to 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iraqi Army"
+                }
+              ]
+            },
+            {
+              "text": "In 2014 he was appointed deputy chief of staff, having formerly led the Mid Euphrates Command."
+            },
+            {
+              "text": "On 27 July 2019, he received the Legion of Merit from the United States Armed Forces and became first Iraqi citizen to receive this award.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legion of Merit"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States Armed Forces"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iraqi politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2020",
+          "template": "use american english"
+        },
+        {
+          "date": "November 2020",
+          "template": "use mdy dates"
+        },
+        {
+          "birth_year": "1958",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Othman al-Ghanmi"
+          },
+          "image": {
+            "text": "Othman al-Ghanmi 2020.png"
+          },
+          "caption": {
+            "text": "Portrait of Othman al-Ghanmi"
+          },
+          "birth_date": {
+            "text": "1958 (age 64)"
+          },
+          "nationality": {
+            "text": "Iraqi",
+            "links": [
+              {
+                "text": "Iraqi",
+                "type": "internal",
+                "page": "Iraq"
+              }
+            ]
+          },
+          "known_for": {
+            "text": "Iraqi Interior Minister"
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Monday Feb 20, 2017 9:55am",
+          "url": "http://www.foreigndesknews.com/news/politics/trumps-defense-chief-were/attachment/iraqi-chief-of-staff-general-othman-al-ghanimi-welcomes-u-s-defense/",
+          "title": "Iraqi Chief of Staff General Othman al-Ghanimi welcomes U.S. Defense • The Foreign Desk",
+          "publisher": "Foreigndesknews.com",
+          "date": "2017-02-20",
+          "accessdate": "2017-05-01",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Rasheed",
+          "first": "Ahmed",
+          "url": "https://www.reuters.com/article/us-mideast-crisis-iraq-mosul-idUSKBN17W0DG?il=0",
+          "title": "Iraqi commander says to complete capture of Mosul in May",
+          "work": "Reuters",
+          "date": "April 30, 2017",
+          "accessdate": "2017-05-01",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.iraqinews.com/iraq-war/gen-ghanimi-nominated-deputy-chief-of-staff/",
+          "title": "Gen. Ghanimi nominated Deputy Chief of Staff",
+          "date": "November 12, 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "iraq-mil-bio-stub"
+        }
+      ]
+    }
+  ]
+}
