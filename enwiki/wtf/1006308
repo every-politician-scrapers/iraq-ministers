@@ -22,13 +22,8 @@
         {
           "sentences": [
             {
-              "text": "Barham Salih (بەرھەم ساڵح; برهم صالح; born 12 September 1960) is an Iraqi politician of Kurdish origin who is serving as the eighth president of Iraq.",
+              "text": "Barham Salih (بەرھەم ساڵح; برهم صالح; born 12 September 1960) is an Iraqi Kurdish politician of who is serving as the eighth president of Iraq.",
               "links": [
-                {
-                  "text": "Iraqi",
-                  "type": "internal",
-                  "page": "Iraqis"
-                },
                 {
                   "text": "Kurdish",
                   "type": "internal",
@@ -102,10 +97,10 @@
             "text": "Barham Salih"
           },
           "image": {
-            "text": "Barham Salih (cropped).jpg"
+            "text": "File:Barham Salih portrait.jpg"
           },
           "caption": {
-            "text": "Salih in 2019"
+            "text": "Salih in 2010"
           },
           "order": {
             "text": "8th"
@@ -367,7 +362,13 @@
             ]
           },
           "nationality": {
-            "text": "Kurdish"
+            "text": "Kurdish",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kurdish"
+              }
+            ]
           },
           "spouse": {
             "text": "Sarbagh Salih"

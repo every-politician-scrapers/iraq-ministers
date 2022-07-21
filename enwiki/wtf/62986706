@@ -44,7 +44,14 @@
               ]
             },
             {
-              "text": "He briefly served as Iraqi Minister of Foreign Affairs in an acting capacity in 2020."
+              "text": "He briefly served as Iraqi Minister of Foreign Affairs in an acting capacity in 2020.",
+              "links": [
+                {
+                  "text": "Iraqi Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Iraq)"
+                }
+              ]
             }
           ]
         }
