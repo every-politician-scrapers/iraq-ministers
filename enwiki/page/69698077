@@ -76,12 +76,12 @@
             "text": "Chief of the General Staff"
           },
           "member_of": {
-            "text": "General Staff",
+            "text": "Armed Forces of Iraq",
             "links": [
               {
-                "text": "General Staff",
+                "text": "Armed Forces of Iraq",
                 "type": "internal",
-                "page": "General Staff of the Armed Forces of Iraq"
+                "page": "Iraqi Armed Forces"
               }
             ]
           },
