@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Al Anbar Governorate"
+      ],
+      "stated_as": "Governor of Anbar"
+    },
+    "P580": "2017-08-29",
+    "P1365": {
+      "links": [
+        "Suhaib al-Rawi"
+      ],
+      "stated_as": "Suhaib al-Rawi"
+    },
+    "P582": "2018-09-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ali Farhan Hameed"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Speakers of the Council of Representatives of Iraq"
+      ],
+      "stated_as": "Speaker of the Council of Representatives"
+    },
+    "P580": "2018-09-15",
+    "P1365": {
+      "links": [
+        "Salim al-Jabouri"
+      ],
+      "stated_as": "Salim al-Jabouri"
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Trade (Iraq)"
+      ],
+      "stated_as": "Minister of Trade"
+    },
+    "P580": "2003-09",
+    "P1365": {
+      "links": [
+        "Coalition Provisional Authority"
+      ],
+      "stated_as": "Coalition Provisional Authority"
+    },
+    "P582": "2004-06",
+    "P1366": {
+      "links": [
+        "Adil Abdul-Mahdi"
+      ],
+      "stated_as": "Adil Abdul-Mahdi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Iraq)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2004-04",
+    "P582": "2004-06",
+    "P1366": {
+      "links": [
+        "Hazim al-Shaalan"
+      ],
+      "stated_as": "Hazim al-Shaalan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Iraq’s Deputy Prime Minister and Finance Minister"
+    },
+    "P580": "2005-04-06",
+    "P1365": {
+      "links": [
+        "Adil Abdul-Mahdi"
+      ],
+      "stated_as": "Adil Abdul-Mahdi"
+    },
+    "P582": "2006-05",
+    "P1366": {
+      "links": [
+        "Baqir Jabr al-Zubeidi"
+      ],
+      "stated_as": "Baqir Jabr al-Zubeidi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Iraq’s Deputy Prime Minister and Finance Minister"
+    },
+    "P580": "2020-05-07",
+    "P1365": {
+      "links": [
+        "Fuad Hussein"
+      ],
+      "stated_as": "Fuad Hussein"
+    }
+  }
+]
