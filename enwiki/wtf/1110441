@@ -582,6 +582,9 @@
       "depth": 0,
       "paragraphs": [
         {
+          "sentences": []
+        },
+        {
           "sentences": [
             {
               "text": "Nechirvan Barzani was first elected to the KDP central committee at its tenth Congress in 1989 and re-elected at the 11th Congress in 1993, when he assumed a position in the political bureau."
@@ -692,7 +695,14 @@
             },
             {
               "text": "During his tenure, more than thirty countries established their official representation offices in the Kurdistan Region."
-            },
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
             {
               "text": "In 2014, the war against the Islamic State impacted the Kurdistan Region."
             },
@@ -861,6 +871,12 @@
           "links": []
         }
       ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "advertisement"
+        }
+      ],
       "references": [
         {
           "title": "Nechirvan Barzani elected president of Iraq's Kurdish region",
@@ -891,14 +907,6 @@
       "paragraphs": [
         {
           "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Nechervan Idris Barzani"
-          ],
-          "template": "commons category"
         }
       ],
       "lists": [
@@ -981,7 +989,19 @@
     {
       "title": "References",
       "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
       "paragraphs": [
+        {
+          "sentences": []
+        },
         {
           "sentences": []
         },
@@ -994,7 +1014,10 @@
       ],
       "templates": [
         {
-          "template": "reflist"
+          "list": [
+            "Nechervan Idris Barzani"
+          ],
+          "template": "commons category-inline"
         },
         {
           "template": "s-start"
