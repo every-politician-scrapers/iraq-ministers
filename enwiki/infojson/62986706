@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Iraqi National Intelligence Service"
+      ],
+      "stated_as": "Director of INIS"
+    },
+    "P580": "2016-06-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Zuheir Fadel Abbas Ghirbawi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Iraq"
+      ],
+      "stated_as": "Prime Minister of Iraq"
+    },
+    "P580": "2020-05-07",
+    "P1365": {
+      "links": [
+        "Adil Abdul-Mahdi"
+      ],
+      "stated_as": "Adil Abdul-Mahdi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Iraq)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2020-05-12",
+    "P1365": {
+      "links": [
+        "Mohamed Ali Alhakim"
+      ],
+      "stated_as": "Mohamed Ali Alhakim"
+    },
+    "P582": "2020-06-06",
+    "P1366": {
+      "links": [
+        "Fuad Hussein"
+      ],
+      "stated_as": "Fuad Hussein"
+    }
+  }
+]

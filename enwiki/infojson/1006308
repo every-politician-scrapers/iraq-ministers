@@ -1,0 +1,128 @@
+[
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Kurdistan Region"
+      ],
+      "stated_as": "Prime Minister of Kurdistan Region"
+    },
+    "P580": "2001-01-21",
+    "P1365": {
+      "links": [
+        "Kosrat Rasul Ali"
+      ],
+      "stated_as": "Kosrat Rasul Ali"
+    },
+    "P582": "2004-07-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Omar Fattah Hussein (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister"
+      ],
+      "stated_as": "Deputy Prime Minister of Iraq"
+    },
+    "P580": "2004-06-28",
+    "P1365": {
+      "links": [
+        "Coalition Provisional Authority"
+      ],
+      "stated_as": "Coalition Provisional Authority"
+    },
+    "P582": "2005-05-03",
+    "P1366": {
+      "links": [
+        "Rowsch Shaways"
+      ],
+      "stated_as": "Rowsch Shaways"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister"
+      ],
+      "stated_as": "Deputy Prime Minister of Iraq"
+    },
+    "P580": "2006-05-20",
+    "P1365": {
+      "links": [
+        "Rowsch Shaways"
+      ],
+      "stated_as": "Rowsch Shaways"
+    },
+    "P582": "2009-08-20",
+    "P1366": {
+      "links": [
+        "Rowsch Shaways"
+      ],
+      "stated_as": "Rowsch Shaways"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "The American University of Iraq, Sulaimani"
+      ],
+      "stated_as": "Chair of Board of Trustees at The American University of Iraq, Sulaimani"
+    },
+    "P580": "2007",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2017",
+    "P1366": {
+      "links": [
+        "Jill Derby"
+      ],
+      "stated_as": "Jill Derby"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Kurdistan Region"
+      ],
+      "stated_as": "Prime Minister of Kurdistan Region"
+    },
+    "P580": "2009-10-28",
+    "P1365": {
+      "links": [
+        "Nechirvan Barzani"
+      ],
+      "stated_as": "Nechirvan Barzani"
+    },
+    "P582": "2012-04-05",
+    "P1366": {
+      "links": [
+        "Nechirvan Barzani"
+      ],
+      "stated_as": "Nechirvan Barzani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Iraq"
+    },
+    "P1545": "8",
+    "P580": "2018-10-02",
+    "P1365": {
+      "links": [
+        "Fuad Masum"
+      ],
+      "stated_as": "Fuad Masum"
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Kurdistan Region"
+      ],
+      "stated_as": "Prime Minister of Kurdistan Region"
+    },
+    "P580": "1999-12-20",
+    "P1365": {
+      "links": [
+        "Rowsch Shaways"
+      ],
+      "stated_as": "Rowsch Shaways"
+    },
+    "P582": "2005-06-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Kurdistan Region"
+      ],
+      "stated_as": "Prime Minister of Kurdistan Region"
+    },
+    "P580": "2006-03-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2009-08-31",
+    "P1366": {
+      "links": [
+        "Barham Salih"
+      ],
+      "stated_as": "Barham Salih"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Kurdistan Region"
+      ],
+      "stated_as": "Prime Minister of Kurdistan Region"
+    },
+    "P580": "2012-03-07",
+    "P1365": {
+      "links": [
+        "Barham Salih"
+      ],
+      "stated_as": "Barham Salih"
+    },
+    "P582": "2019-06-10",
+    "P1366": {
+      "links": [
+        "Masrour Barzani"
+      ],
+      "stated_as": "Masrour Barzani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Kurdistan Region"
+      ],
+      "stated_as": "2nd President of Kurdistan Region"
+    },
+    "P580": "2019-06-10",
+    "P1365": {
+      "links": [
+        "Masoud Barzani"
+      ],
+      "stated_as": "Masoud Barzani"
+    }
+  }
+]

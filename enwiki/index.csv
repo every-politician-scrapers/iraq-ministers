@@ -1,11 +1,11 @@
-pageid,title
-440408,Ali Allawi
-1006308,Barham Salih
-1110441,Nechirvan Barzani
-23908283,Adnan Dirjal
-53925023,Othman al-Ghanmi
-56183277,Mohamed Al-Halbousi
-58896613,Fuad Hussein
-62986706,Mustafa Al-Kadhimi
-67452231,Juma Inad
-69698215,Abdel Emir Yarallah
+pageid,title,wikidata,label
+440408,Ali Allawi,Q2646641,Ali Allawi
+1006308,Barham Salih,Q808173,Barham Salih
+1110441,Nechirvan Barzani,Q557630,Nechervan Idris Barzani
+23908283,Adnan Dirjal,Q4683880,Adnan Dirjal
+53925023,Othman al-Ghanmi,Q29834564,Othman al-Ghanmi
+56183277,Mohamed Al-Halbousi,Q47008930,Mohamed al-Halbousi
+58896613,Fuad Hussein,Q56704276,Fuad Hussein
+62986706,Mustafa Al-Kadhimi,Q85317569,Mustafa Al-Kadhimi
+67452231,Juma Inad,Q93654245,Juma Inad
+69698215,Abdel Emir Yarallah,Q106844871,Abdul Ameer Rasheed Yarallah

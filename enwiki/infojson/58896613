@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "President of Iraqi Kurdistan"
+      ],
+      "stated_as": "Chief of Staff President of Iraqi Kurdistan"
+    },
+    "P580": "2005-06-14",
+    "P582": "2017-11-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vacant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Iraq)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2018-10-25",
+    "P1365": {
+      "links": [
+        "Abdul Razzaq al-Issa"
+      ],
+      "stated_as": "Abdul Razzaq al-Issa"
+    },
+    "P582": "2020-05-07",
+    "P1366": {
+      "links": [
+        "Ali Allawi"
+      ],
+      "stated_as": "Ali Allawi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Iraq)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2020-06-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mustafa Al-Kadhimi (acting)"
+    }
+  }
+]
