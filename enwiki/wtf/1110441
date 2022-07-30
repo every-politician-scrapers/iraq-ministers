@@ -3,6 +3,8 @@
   "pageID": 1110441,
   "categories": [
     "1966 births",
+    "Presidents of Kurdistan Region",
+    "Prime Ministers of Kurdistan Region",
     "Iraqi Kurdish people",
     "Kurdish nationalists",
     "Living people",
@@ -149,6 +151,10 @@
               {
                 "type": "internal",
                 "page": "Jaafar Sheikh Mustafa"
+              },
+              {
+                "type": "internal",
+                "page": "Mustafa Said Qadir"
               }
             ]
           },
@@ -325,13 +331,6 @@
       ],
       "references": [
         {
-          "url": "https://dckurd.org/2019/07/09/kurdistans-weekly-brief-july-9-2019/",
-          "title": "Kurdistan's Weekly Brief July 9 2019",
-          "date": "9 July 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "http://www.arabnews.com/node/1508871/middle-east",
           "title": "Iraqi Kurdistan region swears in new president",
           "date": "June 11, 2019",
@@ -371,6 +370,13 @@
           "url": "https://www.rudaw.net/english/culture/26012021",
           "access-date": "2021-12-24",
           "website": "www.rudaw.net",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "President Barzani Appoints Vice Presidents of the Kurdistan Region",
+          "url": "https://presidency.gov.krd/en/president-barzani-appoints-vice-presidents-of-the-kurdistan-region/",
+          "website": "presidency.gov.krd",
           "template": "citation",
           "type": "web"
         },
